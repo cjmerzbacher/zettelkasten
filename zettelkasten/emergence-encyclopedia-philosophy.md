@@ -145,12 +145,29 @@ LCU: Mode of attention, mode of analysis
 
 "Causally emergent system features" like liquidity, transparency, and consciousness
 
-:apple:
-
 "Bridge laws" can link two different scientific vocabularies - an explanatory reduction (Crane)
 
 Vertical emergence across levels vs. horizontal emergence through time
 
 > "Novelty is understood in terms of unpredictability of states or properties of a system from past states of that system"
 
+Synchronic emergence vs. diachronic emergence
 
+> "Supervenience is a relation of covariation between two sets of properties, subadjacent/underlying properties and supervenient properties"
+
+LCU: bro what?
+
+## Objections to emergentism 
+
+> "Mental properties strongly supervene on physical/biological properties"
+
+Kim's objection - strong emergence would either violate causal closure or break downward causality
+
+LCU: I'm on board
+
+> "What must be denied is not the principle of causal closer but instead, that emergent properties have novel causal powers"
+
+"Hempel and Oppenheim have argued that the unpredictability of emergent phenomena is theory-relative - that is, something is emergent only given the knowledge available at a given time" 
+
+CM: That's what I've been saying! Strong emergence = Bigfoot hunting
+ 
