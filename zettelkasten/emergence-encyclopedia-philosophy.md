@@ -147,3 +147,10 @@ LCU: Mode of attention, mode of analysis
 
 :apple:
 
+"Bridge laws" can link two different scientific vocabularies - an explanatory reduction (Crane)
+
+Vertical emergence across levels vs. horizontal emergence through time
+
+> "Novelty is understood in terms of unpredictability of states or properties of a system from past states of that system"
+
+
