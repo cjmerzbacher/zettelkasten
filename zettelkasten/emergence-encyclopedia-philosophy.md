@@ -2,7 +2,7 @@
 title: "Emergence"
 date: "2026-02-22"
 tags: [philosophy, strong emergence, weak emergence]
-links: [weak-emergence, wynter]
+links: [weak-emergence, wynter-unsettling-decoloniality]
 source: "Internet Encyclopedia of Philosophy"
 author: Charlotte, Liam
 ---
