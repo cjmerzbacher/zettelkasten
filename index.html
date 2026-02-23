@@ -55,18 +55,21 @@
     }
     .note-body figure {
       margin: var(--line-height) 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
     .note-body figure img {
-      height: 18rem;
+      height: 20rem;
       width: auto;
       max-width: 100%;
-      display: block;
       object-fit: contain;
     }
     .note-body figcaption {
       font-size: 0.8rem;
       opacity: 0.6;
       margin-top: calc(var(--line-height) / 4);
+      text-align: center;
     }
 
     /* Note list */
