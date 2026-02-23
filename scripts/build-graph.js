@@ -23,7 +23,13 @@ const edges = [];
 for (const file of files) {
   const id = path.basename(file, '.md');
   const raw = fs.readFileSync(path.join(notesDir, file), 'utf8');
-  const { data, content } = matter(raw);
+  let data, content;
+  try {
+    ({ data, content } = matter(raw));
+  } catch (e) {
+    console.warn(`  Warning: skipping "${file}" — invalid YAML frontmatter (${e.reason || e.message})`);
+    continue;
+  }
 
   // Normalise date — gray-matter may parse YAML dates as Date objects
   let date = null;
