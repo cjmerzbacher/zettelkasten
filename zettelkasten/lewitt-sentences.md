@@ -9,11 +9,7 @@ author: Charlotte
 
 # Overview
 
-> "The idea becomes a machine that makes the art."
-
-LeWitt establishes that the concept precedes execution — the work is the set of instructions, reproducible by anyone. The artist is the architect of a system, not the hand that executes it.
-
-Connection to emergence: the instructions are the micro-level rules; the artwork is the macro-level pattern. The instructions cannot predict the aesthetic outcome.
+Claude: LeWitt establishes that the concept precedes execution — the work is the set of instructions, reproducible by anyone. The artist is the architect of a system, not the hand that executes it.
 
 LCU: This is also a pretty useful touchstone for our approach! I'm not sure we would make good art, following these rules, but we'd probably make something at least a little interesting - and I guess interesting (for LeWitt) is the point.
 
