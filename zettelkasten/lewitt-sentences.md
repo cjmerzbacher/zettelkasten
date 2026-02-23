@@ -2,7 +2,7 @@
 title: "Sentences on Conceptual Art"
 date: "2026-02-22"
 tags: [conceptual-art, instructions, systems]
-links: [eno-generative-music], [wynter-unsettling-decoloniality]
+links: [eno-generative-music, wynter-unsettling-decoloniality]
 source: "Sol LeWitt (1969)"
 author: Charlotte
 ---

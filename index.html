@@ -53,6 +53,24 @@
       margin-left: 0;
       opacity: 0.75;
     }
+    .note-body figure {
+      margin: var(--line-height) 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .note-body figure img {
+      height: 20rem;
+      width: auto;
+      max-width: 100%;
+      object-fit: contain;
+    }
+    .note-body figcaption {
+      font-size: 0.8rem;
+      opacity: 0.6;
+      margin-top: calc(var(--line-height) / 4);
+      text-align: center;
+    }
 
     /* Note list */
     #note-list { margin-top: calc(var(--line-height) * 3); }
@@ -129,6 +147,16 @@
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
   <script>
+    // Rewrite relative image paths and wrap in <figure> with numbered captions.
+    let figCounter = 0;
+    const imgRenderer = new marked.Renderer();
+    imgRenderer.image = (href, title, text) => {
+      const src = /^https?:\/\//.test(href) ? href : `zettelkasten/${href}`;
+      const caption = title ? `<figcaption>Fig. ${++figCounter}: ${title}</figcaption>` : '';
+      return `<figure><img src="${src}" alt="${text}">${caption}</figure>`;
+    };
+    marked.use({ renderer: imgRenderer });
+
     const canvasEl   = document.getElementById('canvas');
     const panelEl    = document.getElementById('panel');
     const noteViewEl = document.getElementById('note-view');
@@ -216,6 +244,7 @@
         document.getElementById('note-view-title').textContent = d.title;
         const meta = [d.date, d.source, d.author ? `— ${d.author}` : null].filter(Boolean).join(' · ');
         document.getElementById('note-view-meta').textContent = meta;
+        figCounter = 0;
         document.getElementById('note-view-body').innerHTML = d.body ? marked.parse(d.body) : '';
         noteViewEl.classList.toggle('visible', !!d.body);
       }
