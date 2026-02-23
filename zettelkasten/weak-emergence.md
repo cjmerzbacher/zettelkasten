@@ -2,7 +2,7 @@
 title: "Weak Emergence"
 date: "2026-02-22"
 tags: [emergence, philosophy, complexity]
-links: [anderson-more-is-different, morrison-site-of-memory]
+links: [anderson-more-is-different, morrison-site-of-memory, lewitt-sentences, wynter-unsettling-decoloniality]
 source: "Mark Bedau"
 author: Charlotte
 ---
@@ -30,7 +30,7 @@ He also gives us the most lucid definition of downward causality (the property t
 
 In other words, downward causality is the idea that there exist causal effects of higher-order properties that cannot be explained by the operations of lower-order components. As the philosophers we're reading say, there's nothing wrong with this idea - it just doesn't make sense because there are no good examples (because of how it isn't real).
 
-Bedau's issue with strong emergence is that it's scientifically irrelevant. His goal is "to show that emergent properties are useful in empirical science". Strong emergence is not analytically useful, and thus "is one mystery which we don't need. Weak emergence contrasts with strong emergence in this respect: science apparently *does* need weak emergence." The point of the paper is to demonstrate how and where weak emergence is empirically useful. (His examples are Conway's game of life and Packard's agent-based model of evolution)
+Bedau's issue with strong emergence is that it's scientifically irrelevant. His goal is "to show that emergent properties are useful in empirical science". Strong emergence is not analytically useful, and thus "is one mystery which we don't need. Weak emergence contrasts with strong emergence in this respect: science apparently *does* need weak emergence." The point of the paper is to demonstrate how and where weak emergence is empirically useful. (His examples are Conway's game of life and Packard's agent-based model of evolution). Even if weak emergence can't be proven, "unproven weak emergence claims can, and often do, still possess substantial *empirical* support."
 
 ## definition of weak emergence
 
@@ -68,7 +68,21 @@ LCU: and this is system memory. In the context of panarchy (and the adaptive cyc
 
 > Too much mutation (not enough memory) will continually flood the population with new random strategies; too little mutation (not enough innovation) will tend to freeze the population at arbitrary strategies. Successful evolutinoary adaptation requires a mutation rate suitably intermediate between these extremes.
 
-LCU: I'm interested in the tension Bedau draws between memory and innovation. It's pretty clear that that tension is useful in the context of Packard's model. However, [Morrison](morrison-site-of-memory.md) 
+LCU: I'm interested in the tension Bedau draws between memory and innovation. It's pretty clear that that tension is useful in the context of Packard's model. However, [Morrison](morrison-site-of-memory.md) argues that memory is a source of innovation (in the context of artistic production). What are the conditions in which memory supports creativity? Does it help when one is drawing from memories that sit outside the current dominant [epistemic paradigm](wynter-unsettling-decoloniality.md)?
 
+Also, Bedau notes that
 
+> a suitably balanced mutation rate might not remain fixed, for the balance point could shift as the context of evolution changes.
+
+LCU: Can we apply this idea of second order evolution to the kind of process described in LeWitt's [sentences](lewitt-sentences.md)? Like, an artistic concept that has adaptation and change built in, that allows the "rules" of production to shift (either in response to external stimulus or in response to what's already come out)? Bedau refers to this second order adaptibility as "supple adaptability," which is an excellent term.
+
+LCU: Bedau also talks about onto-epistemological position of a system's unpredictability. In clearer terms:
+
+> This sort of knowledge \[of all the nondeterministic events affecting the system's behavior] is beyond us, except "in principle;" so weak emergent macrostates of such systems are predictable *only* "in principle."
+
+LCU: As I mentioned earlier, this is *the* challenge with studying complex systems in the world, because all systems are open. This also resolves a lot of my frustrations with the scholars detailed in [the encyclopedia](emergence-encyclopedia-philosophy.md): they wanted unpredictability to be ontological, but not in a way that properly engages with the limits of science's models. Of course unpredictability is epistemological.
+
+> Weak emergence explicates an everyday notion in complexity science. It is not a special, intrinsically interesting property; rather, it is widespread, the rule rather than the exception \[...] A central challenge in complexity science is to identify and study those exceptional, especially interesting weak emergent macrostates that reflect fundamental aspsects of complex systems and are amenable to empirical investigation.
+
+LCU: This is a good mission statement! Also, this might be nothing, but I wonder if there's something about this perspective on reality (and the "stuff" that reality is made of) that gestures toward different political possibilities than those detailed in [Wynter's essay](wynter-unsettling-decoloniality.md) - we're working explicitly with homogoneous matter, but we're explicitly not cutting the material from the mental. Would this perspective enable a different definition of the human, that doesn't require subjugation of Other people and the material world? I.e. can we get to legitimate humanism (that doesn't, like, sanction slavery)? idk.
 
