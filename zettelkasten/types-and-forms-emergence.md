@@ -24,9 +24,11 @@ Descriptive emergence vs. explanatory emergence (similar to strong/weak)
 Type I - Simple/Nominal Emergence without top-down feedback 
 - Type Ia - Simple intentional emergence
 - Type Ib - Simple unintentional emergence
+
 Type II - Weak emergence (including top-down feedback)
 - Type IIa - Weak emergence (stable) - negative feedback
 - Type IIb - Weak emergence (instable) - positive feedback
+
 Type III - Multiple emergence with many feedbacks
 - Type IIIa - stripes, spots, bubbling
 - Type IIIb - Tunneling, adaptive emergence
