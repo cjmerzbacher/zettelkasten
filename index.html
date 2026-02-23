@@ -53,6 +53,17 @@
       margin-left: 0;
       opacity: 0.75;
     }
+    .note-body img {
+      max-width: 100%;
+      display: block;
+      margin: var(--line-height) 0;
+    }
+    .note-body img + em {
+      display: block;
+      font-size: 0.8rem;
+      opacity: 0.6;
+      margin-top: calc(var(--line-height) / -2);
+    }
 
     /* Note list */
     #note-list { margin-top: calc(var(--line-height) * 3); }
@@ -129,6 +140,16 @@
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
   <script>
+    // Rewrite relative image paths to include the zettelkasten/ prefix,
+    // since notes live in zettelkasten/ but the page is served from the root.
+    const imgRenderer = new marked.Renderer();
+    imgRenderer.image = (href, title, text) => {
+      const src = /^https?:\/\//.test(href) ? href : `zettelkasten/${href}`;
+      const titleAttr = title ? ` title="${title}"` : '';
+      return `<img src="${src}" alt="${text}"${titleAttr}>`;
+    };
+    marked.use({ renderer: imgRenderer });
+
     const canvasEl   = document.getElementById('canvas');
     const panelEl    = document.getElementById('panel');
     const noteViewEl = document.getElementById('note-view');
