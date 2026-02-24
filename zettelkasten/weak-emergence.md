@@ -11,8 +11,6 @@ Claude: Bedau distinguishes weak emergence (in principle reducible but computati
 
 Claude: The macro-level pattern is derivable from micro-level rules, but only by simulation — there is no shortcut. The simulation *is* the explanation.
 
-Claude: Connects to Anderson: the breakdown of reductionism in practice, even if not in principle.
-
 # General notes
 
 ## hallmarks of emergence
