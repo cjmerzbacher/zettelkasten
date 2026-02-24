@@ -8,9 +8,11 @@ author: Liam
 ---
 
 # Overview
-
+LCU: DeLanda expands on Deleuze and Guattari's assemglage theory with a more rigorous ontology and a series of applications. Most notably, DeLanda argues that the world is composed of "assemblages all the way down," positions all assemblages (and therefore each assemblage's environment and components) as legitimate agents, and offers some parameters that an assemglage's components can express (symbolically or materially).
 
 # General notes
+
+LCU: I really like what this theory lets us do with scale and historical contingency. Specifically, the continuous range of scales that you can turn like a dial (or even mix in with each other), and the inclusion of unique conditions as part of the assemblage. I also like the way this lets us think about environmental factors, living agents, social convention, and historical conditions as equal participants in the world. I'm starting to think about a game (maybe about rivers), and these ideas could let us sidestep the question of "do we focus on humans or rivers?" Pretty cool.
 
 # Annotations
 
