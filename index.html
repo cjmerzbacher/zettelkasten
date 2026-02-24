@@ -71,6 +71,11 @@
       margin-top: calc(var(--line-height) / 4);
       text-align: center;
     }
+    .note-link {
+      cursor: pointer;
+      text-decoration: underline;
+      text-decoration-style: dashed;
+    }
 
     /* Note list */
     #note-list { margin-top: calc(var(--line-height) * 3); }
@@ -147,7 +152,8 @@
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
   <script>
-    // Rewrite relative image paths and wrap in <figure> with numbered captions.
+    // Custom renderer: relative images → zettelkasten/ prefix + figure/caption;
+    // .md links → in-page note navigation.
     let figCounter = 0;
     const imgRenderer = new marked.Renderer();
     imgRenderer.image = (href, title, text) => {
@@ -155,7 +161,21 @@
       const caption = title ? `<figcaption>Fig. ${++figCounter}: ${title}</figcaption>` : '';
       return `<figure><img src="${src}" alt="${text}">${caption}</figure>`;
     };
+    imgRenderer.link = (href, title, text) => {
+      if (href && href.endsWith('.md')) {
+        const id = href.split('/').pop().replace(/\.md$/, '');
+        return `<a class="note-link" data-id="${id}">${text}</a>`;
+      }
+      return `<a href="${href}"${title ? ` title="${title}"` : ''} target="_blank">${text}</a>`;
+    };
     marked.use({ renderer: imgRenderer });
+
+    document.getElementById('note-view-body').addEventListener('click', e => {
+      const link = e.target.closest('.note-link');
+      if (!link || !selectById) return;
+      selectById(link.dataset.id);
+      document.getElementById('layout').scrollIntoView({ behavior: 'smooth' });
+    });
 
     const canvasEl   = document.getElementById('canvas');
     const panelEl    = document.getElementById('panel');
