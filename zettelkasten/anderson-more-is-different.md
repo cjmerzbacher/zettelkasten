@@ -1,10 +1,10 @@
 ---
 title: "More Is Different"
-date: "2026-02-22"
+date: "2026-02-24"
 tags: [emergence, physics, reductionism]
 links: [weak-emergence]
 source: "Philip W. Anderson (1972)"
-author: Charlotte
+author: Charlotte, Andy
 ---
 
 # Overview
@@ -13,7 +13,9 @@ Anderson posits that there does exist a hierarchy of sciences which study phenom
 
 # General Notes
 
-Why was anyone claiming strong emergence after this?
+Why was anyone claiming strong emergence after this? 
+
+AP: Yes, Pascual-García (2016) "A Topological Approach..." attempts a formal mathematical approach to strong emergence. I'm not entirely convinced
 
 # Annotations
 
@@ -23,15 +25,19 @@ Why was anyone claiming strong emergence after this?
 
 LCU: Which is the basis of the idea that "chemistry is just applied physics," etc. I wrote: Two Cultures but make it stupid.
 
+AP: This is a block quote from Weisskopf of Bell Labs (huge research contributions for early electrophysiology and systems research!)
+
 > \[...] the more the elementary particle physicists tell us about the nature of the fundamental laws, the less relevance they seem to have to the very real problems of the rest of science, much less to those of society.
 
-> at each level of complexity entirely new properties emerge.
+> at each level of complexity entirely new properties appear.
 
 > one may array the sciences roughly linearly in a hierarchy, according to the idea: The elementary entities of science X obey the laws of science Y \[...] But this hierarchy does not imply that science X is "just applied Y." At each stage entirely new laws, concepts, and generalizations are necessary, requiring inpiration and creativity to just as great a degree as in the previous one.
 
 LCU: Too many people have applied the first part of that quote without internalizing the second part. Also, this is where clear philosophical commitments are very useful. If we assume that science is about building *models* of reality (which, despite being wrong, might aspire to being useful), then there's no problem with this distinction - the atomic model is useful for chemistry, but it's not useful for biology, so you use a new one. But if you think that science is a faithful/accurate description of reality, then this might get confusing!
 
 > As I said, we must all start with reductionism, which I fully accept.
+
+AP: How do we feel about this? I think there is more of a trend of pushing back against reductionism itself in modern epistemology.
 
 > If ammonia starts out from the above unsymmetrical state, it will not stay in it very long. By emans of quantum mechanical tunneling, the nitrogen can leak through the triangle of hydrogens to the other side, turning the pyramid inside out
 
@@ -62,8 +68,12 @@ LCU: [Bedau](weak-emergence.md)'s definition of emergence (as requiring computat
 
 > temporal regularity is a means of handling information, similar to information-bearing spatial regularity.
 
+AP: He gives the example of human language as and example of information stored over temporal regularity - as we explore artifact creation, we should remain cognicant of how information is stored across both spatial and temporal gradients.
+
 > At some point we have to stop talking about decreasing symmetry and start callign it increasing complication. \[...] the relationship between the system and its parts is intellectually a one-way street. Synthesis is expected to be all but impossible; analysis, on the other hand, may be not only possible but furitful
 
 > "roads over the mountain ranges ... between the sciences" \[...] while often the quickest shortcut to another part of our own science, are not visible from the viewpoint of one science alone.
+
+AP: Multi-disciplinary hive we ride!
 
 > Surely there are more levels of organization between human ethology and DNA than there are between DNA and quantum electrodynamics, and each level can require a whole new conceptual structure.
