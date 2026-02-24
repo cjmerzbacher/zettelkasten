@@ -52,4 +52,37 @@ LCU: lmao
 
 > In short, assemblages are historical, unique, relationally contingent, mind-independent agents
 
-> In place of Delueze and Guattari's binaristic distinctions -- between strata and assemblage, molecular and molar, micro and macro 
+> In place of Delueze and Guattari's binaristic distinctions -- between strata and assemblage, molecular and molar, micro and macro -- DeLanda proposes that we conceptualize assemblages as having variable parameters that are analogous to "control knobs". This would allow what formerly appeared to be dichotomous categories to be unified as different phases in a continuum.
+
+CM: Mesoscale
+LCU: I'm not sure - doesn't a mesoscale need a well-defined micro- and macro-scale? In this framing it's impossible to draw a boundary between the scales.
+
+> phases can be transformed into one another, and even coexist as mixtures
+
+LCU: That's really cool
+
+> all assemblages are characterized by two variable parameters: the first quantifies its degree of territorialization and deterretorialization, the second quantifies its degree of coding and decoding.
+
+CM: territorialization : coding :: deterritorialization : decoding
+CM: High terr: stasis, fixity, homogeneity, normalization, self-replication
+    High deterr: mobility, flux, heterogeneity, destablization, novelty, loss of unity
+LCU: These correspond pretty well to [Bedau](weak-emergence.md)
+
+> two classes of traits found in every assemblage: expressive or symbolic components, and material or physical components.
+
+LCU: I do like this distinction, and I like the phrasing that territorialization/deterritorialization are "expressed through" the components.
+LCU: Territorialization functions: reproduce the assemblage. Deterritorialization functions: innovate and destablize. The functions of the components are necessarily contextual and historically contingent, because those contingencies are part of the assemblage.
+
+CM: Examples of kinds of assemblages: social, linguistic, martial, scientific practices, diagrammatic assemblages of the actual and virtual, atomic/genetic/chemical, solutions to scientific/mathematical problems
+
+> As such, we cannot "coherently sepak of 'society as a whole'". Rather, social assemblages exist at different levels of scale \[...] Similarly, we cannot speak of a unified "economic system that encompasses all of society'". \[...] macro-entities like the Market or the Capitalist System do not exist as "individual emergent wholes" but consist of a nested set of assemblages "operating at different scales," each with their own historically contingent parameters.
+
+LCU: This is useful! Viewing these systems as monolithic precludes exploration of how (e.g. unsustainable) behavior is reproduced across scales and contexts. We can't just blame it on capitalism, we have to understand how capitalism is producing itself, which is always unique to a time and place.
+
+> Assemblage theory, DeLanda argues \[...] leaves "behind the dream of a revolution that changes the entire system," as no monolithic social or economic system exists.
+
+> other nested sets of assemblages such as language, science, nature, and culture have been falsely regarded as unified wholes and must also be reconceptualized in light of assemblage theory.
+
+> transcendent agencies
+
+LCU: Great word.
