@@ -68,7 +68,7 @@ LCU: That's really cool
 CM: territorialization : coding :: deterritorialization : decoding
 CM: High terr: stasis, fixity, homogeneity, normalization, self-replication
     High deterr: mobility, flux, heterogeneity, destablization, novelty, loss of unity
-LCU: These correspond pretty well to [Bedau](weak-emergence.md)
+LCU: These correspond pretty well to [Bedau](weak-emergence.md)'s memory and innovation
 
 > two classes of traits found in every assemblage: expressive or symbolic components, and material or physical components.
 
