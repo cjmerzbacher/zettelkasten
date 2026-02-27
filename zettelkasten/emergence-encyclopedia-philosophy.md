@@ -4,7 +4,7 @@ date: "2026-02-22"
 tags: [philosophy, strong emergence, weak emergence]
 links: [weak-emergence, wynter-unsettling-decoloniality]
 source: "Internet Encyclopedia of Philosophy"
-author: Charlotte, Liam
+author: Charlotte, Liam, Andy
 ---
 
 > "A property is emergent if it is a novel property of a system or an entity that arises when a system or entity has reached a certain level of complexity"
@@ -16,6 +16,8 @@ Effects are emergent if they cannot be calculated by the addition/subtraction of
 LCU: Mirrors Bedau's definition
 
 Example: Mental properties that emerge from neural processes
+
+AP: whether or not mental properties can be fully explained by a constructionist approach to the analysis of neural encoding remains a hot debate in the Neuroscience community. Many reductionist Neuroscientists think it all comes down to a question of computational and observational power. I am hopeful they are wrong...
 
 > "Emergentism is a theory about the structure of the natural world and, consequently, it has ramifications concerning the unity of science"
 
@@ -39,6 +41,8 @@ Mill contrasts the mechanical and chemical modes in which the composition of cau
 LCU: bro what?
 
 CM: Mass balance (in - out + rxn = 0)
+
+AP: We know now that this is a bad example of emergence (with proper computational modeling, properties of chemical prodcuts should be predictable from an analysis of the reactants). This raises the question: what examples do we now use that will become obsolete with better modeling power?
 
 > "Heteropathic laws" which, though now relative to the laws of the levels from which they emerged, do not counteract them." 
 
