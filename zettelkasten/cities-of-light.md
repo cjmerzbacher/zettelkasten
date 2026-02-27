@@ -2,8 +2,8 @@
 title: "Cities of Light: A Collection of Solar Futures"
 date: "2026-02-23"
 tags: [futures, climate]
-links:
-source: "Joey Eschrich and Clark A. Miller"
+links: [morrison-site-of-memory]
+source: "Joey Eschrich and Clark A. Miller (2021)"
 author: Charlotte
 ---
 
