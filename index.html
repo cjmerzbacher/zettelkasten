@@ -6,7 +6,43 @@
   <title>Zettelkasten</title>
   <link rel="stylesheet" href="node_modules/@owickstrom/the-monospace-web/src/reset.css">
   <link rel="stylesheet" href="node_modules/@owickstrom/the-monospace-web/src/index.css">
+  <script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.classList.add(t);})()</script>
   <style>
+    /* Theme */
+    html.light {
+      --text-color: #000;
+      --text-color-alt: #666;
+      --background-color: #fff;
+      --background-color-alt: #eee;
+    }
+    html.dark {
+      --text-color: #fff;
+      --text-color-alt: #aaa;
+      --background-color: #000;
+      --background-color-alt: #111;
+    }
+
+    /* Nav */
+    nav {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0 2ch;
+      margin-bottom: 0;
+      padding-bottom: var(--line-height);
+      border-bottom: calc(var(--border-thickness) * 3) double var(--text-color);
+    }
+    nav a { font-weight: var(--font-weight-medium); }
+    nav a:first-child { font-weight: var(--font-weight-bold); margin-right: 1ch; }
+    .theme-toggle {
+      margin-left: auto;
+      background: none;
+      border: none;
+      cursor: pointer;
+      font: inherit;
+      color: var(--text-color);
+      padding: 0;
+    }
     /* Graph layout */
     #layout {
       display: grid;
@@ -115,12 +151,13 @@
   </style>
 </head>
 <body>
-  <div class="header">
-    <h1>Zettelkasten</h1>
-    <p>A shared network of notes, linked by ideas.</p>
-  </div>
+  <nav>
+    <a href="https://cjmerzbacher.github.io/emergence/">emergence</a>
+    <strong>notes</strong>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle colour scheme">◐</button>
+  </nav>
 
-  <hr>
+  <p>A shared network of notes, linked by ideas.</p>
 
   <div id="layout">
     <div id="canvas"><svg id="svg"></svg></div>
@@ -149,6 +186,22 @@
     <div id="note-list-items"></div>
   </section>
 
+  <script>
+    (function () {
+      const root = document.documentElement;
+      const btn  = document.getElementById('theme-toggle');
+      function isDark() { return root.classList.contains('dark'); }
+      if (!localStorage.getItem('theme')) {
+        root.classList.add(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      }
+      btn.addEventListener('click', function () {
+        const dark = isDark();
+        root.classList.toggle('dark',  !dark);
+        root.classList.toggle('light',  dark);
+        localStorage.setItem('theme', isDark() ? 'dark' : 'light');
+      });
+    })();
+  </script>
   <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
   <script>
