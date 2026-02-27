@@ -1,9 +1,9 @@
 ---
-title: "manuel delanda, assemblage theory (edinburgh university press, 2016)"
+title: "manuel delanda, assemblage theory"
 date: "2026-02-22"
 tags: [assemblages, scale, agency]
 links: [weak-emergence, bennett-vibrant-matter, emergence-encyclopedia-philosophy, deleuze-and-guattari-assemblages]
-source: "Philip W. Anderson (1972)"
+source: "Andrew Ball (2018)"
 author: Liam
 ---
 
