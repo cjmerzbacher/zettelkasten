@@ -4,9 +4,10 @@ type: permanent
 author: "Charlotte Merzbacher"
 title: "Solitude Essay"
 tags: [philosophy]
+links: [how_to_do_nothing_odell]
 ---
 
-**See also:** [[20210206093909]] how_to_do_nothing_odell
+**See also:** [[how_to_do_nothing_odell]]
 
 ### Outline
 Metaphor of driving at night in the fog. 

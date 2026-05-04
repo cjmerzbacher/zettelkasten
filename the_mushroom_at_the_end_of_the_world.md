@@ -4,9 +4,10 @@ type: literature
 author: "Anna Lowenhaupt Tsing"
 title: "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins"
 tags: [philosophy, anthropology, resilience, environment, disturbance, solace, capitalism]
+links: [earth_stalked_by_man]
 ---
 
-**See also:** [[20200326221713]] earth_stalked_by_man
+**See also:** [[earth_stalked_by_man]]
 
 # The Mushroom at the End of the World
 On the Possibility of Life in Capitalist Ruins

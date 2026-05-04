@@ -4,9 +4,10 @@ type: literature
 author: "Anna Lowenhaupt Tsing"
 title: "Earth Stalked By Man"
 tags: [philosophy, anthropology, resilience, environment, disturbance, solace, anthropocene]
+links: [the_mushroom_at_the_end_of_the_world]
 ---
 
-**See also:** [[20200326221512]] the_mushroom_at_the_end_of_the_world
+**See also:** [[the_mushroom_at_the_end_of_the_world]]
 
 # Earth Stalked By Man
 Lecture at Barnard College by Anna Lowenhaupt Tsing

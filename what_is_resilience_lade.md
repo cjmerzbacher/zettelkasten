@@ -4,9 +4,10 @@ type: literature
 author: "Stephen Lade"
 title: "What is Social-Ecological Resilience"
 tags: [resilience, video, gradschool, stockholmresilienceinstitute]
+links: [sei_system_resilience_what_is]
 ---
 
-**See also:** [[20200330113932]] sei_system_resilience_what_is
+**See also:** [[sei_system_resilience_what_is]]
 
 # What is Social-Ecological Resilience?
 

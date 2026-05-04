@@ -4,9 +4,10 @@ type: literature
 author: "Charlotte Merzbacher"
 title: "Sample Note"
 tags: [philosophy, datascience, resilience]
+links: [samplepermanentnote]
 ---
 
-**See also:** [[20200326220414]] samplepermanentnote
+**See also:** [[samplepermanentnote]]
 
 # Title of Note
 

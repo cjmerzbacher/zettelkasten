@@ -3,9 +3,10 @@ id: "20201222221106"
 type: literature
 title: "IPBES (International Platform on Biodiversity And Ecosystem Services) Conceptual Framework"
 tags: [resilience, environment, ecosystemservices]
+links: [assessing_natures_contributions_to_people, ecosystem_services_origins_pitfalls_contributions_alternatives]
 ---
 
-**See also:** [[20201222220215]] assessing_natures_contributions_to_people [[20201222220553]] ecosystem_services_origins_pitfalls_contributions_alternatives
+**See also:** [[assessing_natures_contributions_to_people]], [[ecosystem_services_origins_pitfalls_contributions_alternatives]]
 
 Components:
 1. Nature: “Mother Earth”, biodiversity, ecosystems. Has intrinsic values

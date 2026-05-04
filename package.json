@@ -1,0 +1,21 @@
+{
+  "name": "zettelkasten",
+  "version": "0.1.0",
+  "description": "Charlotte's Zettelkasten — force-directed graph visualization",
+  "private": true,
+  "scripts": {
+    "export": "node src/cli.js export . --output ./site --link-mode both --name \"Charlotte\"",
+    "serve": "node src/cli.js serve . --name \"Charlotte\"",
+    "preview": "python3 -m http.server -d ./site 8080"
+  },
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "commander": "^12.1.0",
+    "gray-matter": "^4.0.3",
+    "marked": "^13.0.0",
+    "minimatch": "^9.0.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

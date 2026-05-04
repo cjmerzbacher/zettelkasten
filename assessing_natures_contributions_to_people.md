@@ -3,9 +3,10 @@ id: "20201222220215"
 type: literature
 title: "Assessing Nature’s Contributions to People"
 tags: [resilience, environment, ecosystemservices]
+links: [ipbes_conceptual_framework, ecosystem_services_origins_pitfalls_contributions_alternatives]
 ---
 
-**See also:** [[20201222221106]] ipbes_conceptual_framework [[20201222220553]] ecosystem_services_origins_pitfalls_contributions_alternatives
+**See also:** [[ipbes_conceptual_framework]], [[ecosystem_services_origins_pitfalls_contributions_alternatives]]
 
 - Some NCP can be both beneficial and harmful (ex. wild carnivores)
 - Lack of inclusion of local stakeholders leads to opposition of ecosystem services model

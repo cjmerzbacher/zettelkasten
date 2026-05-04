@@ -4,9 +4,10 @@ type: literature
 author: "Hannah Arendt"
 title: "The Origins of Totalitarianism"
 tags: [philosophy, politicaltheory]
+links: [men_in_dark_times_arendt]
 ---
 
-**See also:** [[20200326220830]] men_in_dark_times_arendt
+**See also:** [[men_in_dark_times_arendt]]
 
 # The Origins of Totalitarianism
 ## Ideology and Terror:  A Novel Form of Government

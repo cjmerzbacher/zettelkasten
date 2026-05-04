@@ -4,9 +4,10 @@ type: literature
 author: "Albert-Lazlo Barabási, Natali Gulbahce, Joseph Loscalzo"
 title: "Network medicine: a network-based approach to human disease"
 tags: [networks, biology, medicine]
+links: [the_square_and_the_tower_ferguson]
 ---
 
-**See also:** [[20200402171646]] the_square_and_the_tower_ferguson
+**See also:** [[the_square_and_the_tower_ferguson]]
 
 Over 100,000 nodes in human interactome
 Key hypothesis: Disease phenotypes are not single-gene problems. Specific genetic abnormalities spread from one gene product that carries it along the links of the network to affect other genes.

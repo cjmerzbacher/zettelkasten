@@ -4,9 +4,10 @@ type: literature
 author: "Stephen Lade"
 title: "Capturring emergent phenomena in social-ecological systems: an analytical framework"
 tags: [resilience, gradschool, stockholmresilienceinstitute]
+links: [what_is_resilience_lade]
 ---
 
-**See also:** [[20200528123654]] what_is_resilience_lade
+**See also:** [[what_is_resilience_lade]]
 
 # Capturring emergent phenomena in social-ecological systems
 [https://www.ecologyandsociety.org/vol24/iss3/art11/](https://www.ecologyandsociety.org/vol24/iss3/art11/)

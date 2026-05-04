@@ -4,9 +4,10 @@ type: permanent
 author: "Charlotte Merzbacher"
 title: "Patchy Apocalypses"
 tags: [resilience, apocalypse, climatechange]
+links: [the_mushroom_at_the_end_of_the_world]
 ---
 
-**See also:** [[20200326221512]] the_mushroom_at_the_end_of_the_world
+**See also:** [[the_mushroom_at_the_end_of_the_world]]
 
 https://www.wired.com/story/coronavirus-apocalypse-myths/
 

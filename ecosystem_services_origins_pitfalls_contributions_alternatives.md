@@ -3,9 +3,10 @@ id: "20201222220553"
 type: literature
 title: "Ecosystem Services: Origins, Pitfalls, Contributions, Alternatives"
 tags: [resilience, environment, ecosystemservices]
+links: [assessing_natures_contributions_to_people, ipbes_conceptual_framework]
 ---
 
-**See also:** [[20201222220215]] assessing_natures_contributions_to_people [[20201222221106]] ipbes_conceptual_framework
+**See also:** [[assessing_natures_contributions_to_people]], [[ipbes_conceptual_framework]]
 
 - Is the ES concept (from the late 90s) useful for research? Multiple ways of thinking of it
     - life support services

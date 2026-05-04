@@ -4,9 +4,10 @@ type: permanent
 author: "Charlotte Merzbacher"
 title: "Process Ontologies, Equilibrium analysis, and Ego Death"
 tags: [resilience, environment]
+links: [hierarchies_and_networks, from_nouns_to_verbs_process_ontologies, earth_stalked_by_man]
 ---
 
-**See also:** [[20200330205047]] hierarchies_and_networks, [[20200403133729]] from_nouns_to_verbs_process_ontologies [[20200326221713]] earth_stalked_by_man
+**See also:** [[hierarchies_and_networks]], [[from_nouns_to_verbs_process_ontologies]], [[earth_stalked_by_man]]
 
 # Process Ontologies, Equilibrium analysis, and Ego Death
 

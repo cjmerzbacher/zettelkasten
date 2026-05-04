@@ -4,9 +4,10 @@ type: literature
 author: "Barbara Brown Taylor"
 title: "Learning to Walk in the Dark"
 tags: [religion, solace]
+links: [men_in_dark_times_arendt]
 ---
 
-**See also:** [[20200326220830]] men_in_dark_times_arendt
+**See also:** [[men_in_dark_times_arendt]]
 
 # Learning to Walk in the Dark
 Barbara Brown Taylor
