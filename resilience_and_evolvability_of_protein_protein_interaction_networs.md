@@ -1,9 +1,10 @@
-###### Metadata
-ID: 20210119180901
-#literature #reference
-#author Brennan Klein, Ludvig Holmér, Keith Smith, Mackenzie Johnson, Anshuman Swain, Laura Stolp, Ashley Teufel, April Kleppe
-#title Resilience and evolvability of protein-protein interaction networks
-#resilience #networks
+---
+id: "20210119180901"
+type: literature
+author: "Brennan Klein, Ludvig Holmér, Keith Smith, Mackenzie Johnson, Anshuman Swain, Laura Stolp, Ashley Teufel, April Kleppe"
+title: "Resilience and evolvability of protein-protein interaction networks"
+tags: [resilience, networks]
+---
 
 Source of idea of network resilience (or robustness): https://www.pnas.org/content/116/10/4426
 Defined as: Shannon entropy of component sizes distribution as you iteratively disconnect more nodes

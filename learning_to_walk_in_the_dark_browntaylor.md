@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200331105258
-#literature #reference
-#author Barbara Brown Taylor
-#title Learning to Walk in the Dark
-#religion #solace
-See also: [[20200326220830]] men_in_dark_times_arendt
+---
+id: "20200331105258"
+type: literature
+author: "Barbara Brown Taylor"
+title: "Learning to Walk in the Dark"
+tags: [religion, solace]
+---
+
+**See also:** [[20200326220830]] men_in_dark_times_arendt
 
 # Learning to Walk in the Dark
 Barbara Brown Taylor

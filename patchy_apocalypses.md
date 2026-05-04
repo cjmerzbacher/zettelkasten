@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200331213012
-#permanent
-#author Charlotte Merzbacher
-#title Patchy Apocalypses
-#resilience #apocalypse #climatechange
-See also: [[20200326221512]] the_mushroom_at_the_end_of_the_world
+---
+id: "20200331213012"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Patchy Apocalypses"
+tags: [resilience, apocalypse, climatechange]
+---
+
+**See also:** [[20200326221512]] the_mushroom_at_the_end_of_the_world
 
 https://www.wired.com/story/coronavirus-apocalypse-myths/
 
@@ -37,4 +39,3 @@ Perhaps I should be separating my terms here. As Laurie Penny writes: “A catas
 John of the Cross speaks of *la noche oscura*, the dark night of the soul that frees oneself from one’s ideas, fears, and attachments about God. My catastrophes were depression; when they pass, all is restored. When these dark nights pass, all will be transformed. [[20200331105258]] learning_to_walk_in_the_dark_browntaylor
 
 Livability has been thinning throughout the Anthropocene. But now it seems to be threadbare everywhere, like a sock worn thin until the entire toe gives out. I’m not sure why I want to make a quilt. But my mother showed me the one she’s started, stitching together bits of fabric she finds around the house with mismatched, colorful thread. Maybe I want to feel myself growing something new beneath my fingers out of the scraps left of my life. Maybe I just want to cover my head and retreat inside myself. 
-

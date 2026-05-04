@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20210112105654
-#literature
-#author C.S. Holling
-#title Resilience and Stability of Ecological Systems
-#resilience #systems
-See also: 
+---
+id: "20210112105654"
+type: literature
+author: "C.S. Holling"
+title: "Resilience and Stability of Ecological Systems"
+tags: [resilience, systems]
+---
 
 Annual Review of Ecology and Systematics, 4, 1-23, 1973.
 

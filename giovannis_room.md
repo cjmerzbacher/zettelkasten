@@ -1,9 +1,9 @@
-###### Metadata
-ID:20210429112013
-#author James Baldwin
-#title Giovanni’s Room
-#year 
-#book
+---
+id: "20210429112013"
+book: true
+author: "James Baldwin"
+title: "Giovanni’s Room"
+---
 
 “Nothing is more unbearable, once one has it, than freedom...But people can’t unhappily, invent their mooring posts, their lovers and friends, any more than they can invent their parents. Life gives these and also takes them away and the great difficulty is to say yes to life.” (6)
 
@@ -26,4 +26,3 @@ ID:20210429112013
 “He did not smile. He was waiting, I think, for me to cross that space and take him in my arms again - waiting, as one waits at a death-bed for the miracle one dare not disbelieve, which will not happen.” (212)
 
 “The wind of my life was blowing me away.”
-

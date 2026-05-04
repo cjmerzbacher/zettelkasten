@@ -1,10 +1,10 @@
-###### Metadata
-ID: 2025011301
-#literature #reference
-#author David Krakauer
-#title The Complex World: An Introduction to the Foundations of Complexity Science
-#complexity #santafe 
-See also:
+---
+id: "2025011301"
+type: literature
+author: "David Krakauer"
+title: "The Complex World: An Introduction to the Foundations of Complexity Science"
+tags: [complexity, santafe]
+---
 
 (p. 21) Scientific research is not merely a process of fitting new data into old models or into constellations of models comprising larger theories. New data often break the old models and theories. One cannot use the rules of chess to analyze a game of Go, nor can we use particle physics to understand genetics.
 
@@ -31,4 +31,3 @@ See also:
 (p. 114-115) reductionism - Rediction is used in two senses: reductionism as reducing all phenomena to a minimal set of elementary particles..the second kind of redu
 
 (p.117) emergence lattice analysis
-

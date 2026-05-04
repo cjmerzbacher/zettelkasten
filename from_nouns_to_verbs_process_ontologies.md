@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200403133729
-#literature #reference
-#author Tilman Hertz, Maria Mancilla Garcia, Maja Schlüter
-#title From nouns to verbs: How process ontologies enhance our understanding of social‐ecological systems understood as complex adaptive systems
-#philosophy #resilience 
-See also: [[20200330113927]] emergent_strategy_brown
+---
+id: "20200403133729"
+type: literature
+author: "Tilman Hertz, Maria Mancilla Garcia, Maja Schlüter"
+title: "From nouns to verbs: How process ontologies enhance our understanding of social‐ecological systems understood as complex adaptive systems"
+tags: [philosophy, resilience]
+---
+
+**See also:** [[20200330113927]] emergent_strategy_brown
 
 # From nouns to verbs
 How process ontologies enhance our understanding of social‐ecological systems understood as complex adaptive systems

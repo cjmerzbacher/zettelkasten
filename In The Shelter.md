@@ -1,8 +1,8 @@
-###### Metadata
-#literature #reference
-#author O'Tuama, Padraig
-#title In the Shelter
-See also: 
+---
+type: literature
+author: "O'Tuama, Padraig"
+title: "In the Shelter"
+---
 
 David Wagoner, 'Lost':
 	Stand still. The trees ahead and bushes beside you

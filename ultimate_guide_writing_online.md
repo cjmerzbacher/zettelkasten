@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20200326220202
-#literature #reference
-#author David Perell
-#title The Ultimate Guide to Writing Online
-#philosophy #datascience #resilience
-See also: 
+---
+id: "20200326220202"
+type: literature
+author: "David Perell"
+title: "The Ultimate Guide to Writing Online"
+tags: [philosophy, datascience, resilience]
+---
 
 # The Ultimate Guide to Writing Online
 
@@ -29,4 +29,3 @@ Focus on quantity over quality first
 ## Build a Personal Monopoly
 “Writing isn’t just a way to advertise your high-value skills. It’s a way to discover which new ones you should pursue as well.” 
 Pick a high value, emerging industry, learn as much as you can, and share what you learn #datascience #chaos #model #networks
-

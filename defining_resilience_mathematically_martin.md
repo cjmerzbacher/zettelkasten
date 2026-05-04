@@ -1,9 +1,10 @@
-###### Metadata
-ID: 20210124200551
-#literature #reference
-#author Martin, S. et al
-#title Defining Resilience Mathematically: From Attractors to Viability
-#resilience #engineering #model
+---
+id: "20210124200551"
+type: literature
+author: "Martin, S. et al"
+title: "Defining Resilience Mathematically: From Attractors to Viability"
+tags: [resilience, engineering]
+---
 
 Viability and Resilience of Complex Systems: Concepts, Methods, and Case Studies from Ecology and Society. 2011.
 

@@ -1,10 +1,12 @@
-###### Metadata
-ID:20210130183221
-#author Hannah Arendt
-#title The Human Condition
-#year 1958
-#philosophy #politics #solitude
-See also: [[20200326220830]] men_in_dark_times_arendt
+---
+id: "20210130183221"
+author: "Hannah Arendt"
+title: "The Human Condition"
+year: "1958"
+tags: [philosophy, politics, solitude]
+---
+
+**See also:** [[20200326220830]] men_in_dark_times_arendt
 
 "Should the emancipation and secularization of the modern age, which began with a turning-away, not necessarily from God, but from a god who was the Father of men in heaven, end with an even more fatefull repudiation of an earth who was the Mother of all living creatures under the sky?" (2)
 

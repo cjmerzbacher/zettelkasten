@@ -1,11 +1,10 @@
-
-###### Metadata
-ID:  20200402171646
-#literature #reference
-#author Niall Ferguson
-#title The Square and The Tower
-#networks #science #history
-See also:
+---
+id: "20200402171646"
+type: literature
+author: "Niall Ferguson"
+title: "The Square and The Tower"
+tags: [networks, science, history]
+---
 
 # The Square and The Tower
 

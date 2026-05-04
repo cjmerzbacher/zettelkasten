@@ -1,8 +1,9 @@
-###### Metadata
-ID:  20210121083527
-#toread
-#author Misc.
-#title to-read list
+---
+id: "20210121083527"
+type: toread
+author: "Misc."
+title: "to-read list"
+---
 
 # TO READ LIST
 #toread

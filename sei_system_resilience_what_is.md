@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20200330113932
-#literature #reference
-#author Donald Firesmith
-#title System Resilience: What Exactly is it?
-#resilience
-See also: 
+---
+id: "20200330113932"
+type: literature
+author: "Donald Firesmith"
+title: "System Resilience: What Exactly is it?"
+tags: [resilience]
+---
 
 # System Resilience: What Exactly is it?
 Donald Firesmith, Software Engineering Institute

@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20200401233013
-#permanent
-#author Charlotte Merzbacher
-#title Practicing Resilience: Accepting interdependance
-#resilience #apocalypse #climatechange
-See also:
+---
+id: "20200401233013"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Practicing Resilience: Accepting interdependance"
+tags: [resilience, apocalypse, climatechange]
+---
 
 # Practicing Resilience
  

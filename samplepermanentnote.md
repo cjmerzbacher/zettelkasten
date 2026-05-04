@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200326220414
-#permanent
-#author Charlotte Merzbacher
-#title Sample Note
-#philosophy #datascience #resilience
-See also: [[20200326220202]] sampleliteraturenote
+---
+id: "20200326220414"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Sample Note"
+tags: [philosophy, datascience, resilience]
+---
+
+**See also:** [[20200326220202]] sampleliteraturenote
 
 # Sample Permanent Note
 

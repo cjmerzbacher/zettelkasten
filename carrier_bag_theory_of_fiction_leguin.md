@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200407085813
-#literature #reference
-#author Ursula K. Le Guin
-#title The Carrier-Bag Theory of Fiction
-#religion #fiction #literature #environment #solace
-See also: [[20200326221713]] earth_stalked_by_man
+---
+id: "20200407085813"
+type: literature
+author: "Ursula K. Le Guin"
+title: "The Carrier-Bag Theory of Fiction"
+tags: [religion, fiction, environment, solace]
+---
+
+**See also:** [[20200326221713]] earth_stalked_by_man
 
 #toread ==Ursula K. LeGuin "The Carrier Bag Theory of Fiction"==: Heroism as Botulism: "Livability in the Anthropocene is threatened by just those heroic stories and practices that are thought to have made Man great. Are there alternatives to heroism? Le Guin's essay suggests carrier bags...Collecting offers stories with more complex arcs of temporality, instead of a hero single-handedly making the future, there are entanglements and losses of many kinds."
 
@@ -24,4 +26,3 @@ Home is just another, larger kind of pouch or bag, a container for people. When 
 Proximity as an organizing principle rather than causality (Ocean Vuong): “The proper, fitting shape of the novel might be that of a sack, a bag...One relationship among elements in the novel may well be that of conflict, but the reduction of narrative to conflict is absurd.” 
 
 “Technology” or “modern science” is often used as an unexamined shorthand for the ‘hard’ sciences and high technology founded upon continuous economic growth. [[20200330205047]] hierarchies_and_networks
-

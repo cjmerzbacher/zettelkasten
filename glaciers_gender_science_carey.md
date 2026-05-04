@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20201228175532
-#literature #reference
-#author Carey et al., 2016 (U of Oregon)
-#title Glaciers, Gender, and Science: A feminist glaciology framework for global environmental change research
-#environment #science
-See also:
+---
+id: "20201228175532"
+type: literature
+author: "Carey et al., 2016 (U of Oregon)"
+title: "Glaciers, Gender, and Science: A feminist glaciology framework for global environmental change research"
+tags: [environment, science]
+---
 
 Glaciers as objects of knowledge
 1. Knoweldge (geographic) producers

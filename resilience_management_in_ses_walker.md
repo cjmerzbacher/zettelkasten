@@ -1,9 +1,10 @@
-###### Metadata
-ID: 20210118211306
-#literature #reference
-#author Walker, B. et al.
-#title A Working Hypothesis for A Participatory Approach: Resilience Management in SES
-#resilience #ecology #environment
+---
+id: "20210118211306"
+type: literature
+author: "Walker, B. et al."
+title: "A Working Hypothesis for A Participatory Approach: Resilience Management in SES"
+tags: [resilience, ecology, environment]
+---
 
 SES management assumes
 1. probabilistic responses to management

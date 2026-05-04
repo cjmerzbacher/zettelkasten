@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20210112105644
-#literature #reference
-#author Robert Flood
-#title Rethinking The Fifth Discipline: Learning Within the unknowable
-#resilience #systems
-See also:
+---
+id: "20210112105644"
+type: literature
+author: "Robert Flood"
+title: "Rethinking The Fifth Discipline: Learning Within the unknowable"
+tags: [resilience, systems]
+---
 
 ### 3. Bertalanffy’s open systems theory
 Transition from reductionism to emergent properties, synergy, and negentropy.

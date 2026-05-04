@@ -1,11 +1,10 @@
-
-###### Metadata
-ID: 20200326221850
-#literature #reference
-#author David Bentley Hart
-#title Three Cheers for Socialism
-#capitalism #philosophy #socialism #politics
-See also: 
+---
+id: "20200326221850"
+type: literature
+author: "David Bentley Hart"
+title: "Three Cheers for Socialism"
+tags: [capitalism, philosophy, socialism, politics]
+---
 
 # Three Cheers for Socialism
 

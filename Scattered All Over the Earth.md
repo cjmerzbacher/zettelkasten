@@ -1,8 +1,8 @@
-###### Metadata
-#literature #reference
-#author Tawada, Yoko
-#title Scattered All Over the Eart
-See also: 
+---
+type: literature
+author: "Tawada, Yoko"
+title: "Scattered All Over the Earth"
+---
 
 Moomin to my country as exile came," she said, "Finland between USSR and western europe in difficult balance was caught, great stress for Moomin loss of weight casued. To restore round body shape moomin exile became. As lover of snow, in my area lived."
 

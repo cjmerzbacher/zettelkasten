@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20210112111634
-#literature #reference
-#author  Janne Bengtsson, Per Angelstam, Thomas Elmqvist, Urban Emanuelsson, Carl Folke, Margareta Ihse, Fredrik Moberg and Magnus Nyström
-#title Reserves, Resilience and Dynamic Landscapes
-#resilience #ecology
-See also: [[20210112105644]] toward_a_unified_ecology_allen
+---
+id: "20210112111634"
+type: literature
+author: "Janne Bengtsson, Per Angelstam, Thomas Elmqvist, Urban Emanuelsson, Carl Folke, Margareta Ihse, Fredrik Moberg and Magnus Nyström"
+title: "Reserves, Resilience and Dynamic Landscapes"
+tags: [resilience, ecology]
+---
+
+**See also:** [[20210112105644]] toward_a_unified_ecology_allen
 
 Conservation strategies have to actively incorporate the large areas of land that are managed for human use. Particularly relevant for patchy, scattered **landscapes**
 

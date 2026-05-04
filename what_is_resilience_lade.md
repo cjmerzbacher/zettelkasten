@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200528123654
-#literature #reference
-#author Stephen Lade
-#title What is Social-Ecological Resilience 
-#resilience #video #gradschool #stockholmresilienceinstitute
-See also: [[20200330113932]] sei_system_resilience_what_is
+---
+id: "20200528123654"
+type: literature
+author: "Stephen Lade"
+title: "What is Social-Ecological Resilience"
+tags: [resilience, video, gradschool, stockholmresilienceinstitute]
+---
+
+**See also:** [[20200330113932]] sei_system_resilience_what_is
 
 # What is Social-Ecological Resilience?
 

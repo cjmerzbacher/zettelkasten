@@ -1,11 +1,12 @@
-###### Metadata
-ID: 20210207092937
-#permanent
-#author Charlotte Merzbacher
-#title Solitude Essay
-#philosophy
-See also: [[20210206093909]] how_to_do_nothing_odell
-[[20210130183221]] the_human_condition_arendt 
+---
+id: "20210207092937"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Solitude Essay"
+tags: [philosophy]
+---
+
+**See also:** [[20210206093909]] how_to_do_nothing_odell
 
 ### Outline
 Metaphor of driving at night in the fog. 
@@ -25,4 +26,3 @@ Metaphor of driving at night in the fog.
 10. Jenny Odell as one modern intellectual critiquing technooptimization. However, she argues for “standing apart” 
     11. taking the view of the outsider without moving. “Not fleeing your enemy, but knowing your enemy, which turns out not to be the world but the channels through which you encounter it day to day.” (61)
 12. This lacks the rejoinder to action, and is sympathetic with the modern malaise Arendt recognizes. Both recognize the context-defining power of solitude, but to Arendt that context is meaningless without a return to other people.
-

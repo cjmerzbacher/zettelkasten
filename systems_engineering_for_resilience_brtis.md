@@ -1,9 +1,10 @@
-###### Metadata
-ID: 20210124200255
-#literature #reference
-#author Brtis, J., and MA McEvilley. 
-#title Systems Engineering for Resilience
-#resilience #engineering
+---
+id: "20210124200255"
+type: literature
+author: "Brtis, J., and MA McEvilley."
+title: "Systems Engineering for Resilience"
+tags: [resilience, engineering]
+---
 
 MITRE Technical Report_, The MITRE Corporation, 2019.
 - System: A combination of interacting elements organized to achieve one or more stated purposes
@@ -15,4 +16,3 @@ MITRE Technical Report_, The MITRE Corporation, 2019.
     - Required capability may vary in complex manner
     - Ability to avoid withstand, and recover may include probabilistic componeny
 - May be several resilience goals, eg. threshold vs. as resilient as practicable.
-

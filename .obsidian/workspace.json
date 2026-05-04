@@ -77,12 +77,14 @@
             "id": "32cc1f7ceb30624f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ],
@@ -246,6 +248,7 @@
   },
   "active": "32cc1f7ceb30624f",
   "lastOpenFiles": [
+    "how_to_do_nothing_odell.md",
     "earth_syste_science_and_society_cornell.md",
     "In The Shelter.md",
     "And He Shall Appear.md",
@@ -274,7 +277,6 @@
     "the_world_ending_fire.md",
     "the_war_of_art.md",
     "Untitled 2.md",
-    "Untitled 1.md",
-    "ML_assisted_protein_evol.md"
+    "Untitled 1.md"
   ]
 }

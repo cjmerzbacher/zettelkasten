@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20210112105644
-#literature #reference
-#author Allen, T. F. H., and T. W. Hoekstra
-#title Toward a Unified Ecology
-#resilience #ecology
-See also: [[20210112105644]] rethinking_the_fifth_discipline_flood
+---
+id: "20210112105644"
+type: literature
+author: "Allen, T. F. H., and T. W. Hoekstra"
+title: "Toward a Unified Ecology"
+tags: [resilience, ecology]
+---
+
+**See also:** [[20210112105644]] rethinking_the_fifth_discipline_flood
 
 ### 1. The Principles of Ecological Integration
 

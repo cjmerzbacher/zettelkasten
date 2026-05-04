@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20200330113927
-#literature #reference
-#author adrienne maree brown
-#title Emergent Strategy: Shaping change, changing worlds
-#philosophy #activism #resilience #environment
-See also: 
+---
+id: "20200330113927"
+type: literature
+author: "adrienne maree brown"
+title: "Emergent Strategy: Shaping change, changing worlds"
+tags: [philosophy, activism, resilience, environment]
+---
 
 # Emergent Strategy
 Shaping change, changing worlds

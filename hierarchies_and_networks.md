@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20200330205047
-#permanent
-#author Charlotte Merzbacher
-#title Hierarchies and Networks: Paradigms of temporality, knowledge, and power
-#resilience #networks
-See also: [[20200330204247]] as_long_as_grass_grows_giliowhitaker [[20200330113927]] emergent_strategy_brown [[20200326221512]] the_mushroom_at_the_end_of_the_world [[20200326221713]] earth_stalked_by_man [[20200326220830]] men_in_dark_times_arendt
+---
+id: "20200330205047"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Hierarchies and Networks: Paradigms of temporality, knowledge, and power"
+tags: [resilience, networks]
+---
+
+**See also:** [[20200330204247]] as_long_as_grass_grows_giliowhitaker [[20200330113927]] emergent_strategy_brown [[20200326221512]] the_mushroom_at_the_end_of_the_world [[20200326221713]] earth_stalked_by_man [[20200326220830]] men_in_dark_times_arendt
 
 # Hierarchies and Networks
 ## Paradigms of Temporality, Progress, and Ruination
@@ -28,5 +30,3 @@ Furthermore, these systems of hierarchy inextricably bind colonialism and capita
 Even hopes of automatic collapse, however, are predicated on a linear notion of history and future events. Stories of ruination and revolution are predicated on previous progress. While such a global collapse is possible, a patchwork of postcapitalist and pericapitalist places, coming up in the disturbed soil unwanted by capitalist machinations, seems more likely. Livability, both in the social and ecological senses, is experienced only through places, uneven and unequal patches ([[20200326221713]] earth_stalked_by_man). Instead of seeking to escape capitalism entirely, another way exists: to look at the ecologies persisting through the cracks in capitalism: the “third nature” described in William Cronon’s work (viii, [[20200326221512]] the_mushroom_at_the_end_of_the_world #toread William Cronon's *Nature's Metropolis*). 
 
 Our hierarchies of knowledge and narratives of progress have made it possible for a paradigm of domination to guide society. Emerging from these stories of violent competition and inevitable growth are patches of complexity, are connections and threads of adaptation and evolution. Activist and author adrienne maree brown said of Occupy Wall Street: “We are realizing that we must become the systems we need - no government, political party, or corporation is going to care for us, so we have to remember how to care for each other” (113, [[20200330113927]] emergent_strategy_brown). Like mushrooms, like dandelions, we must learn to notice the cracks and grow in them. After all, these patches may be the only hope we have against spreading unlivability.
-
-

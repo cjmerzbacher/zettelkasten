@@ -1,10 +1,10 @@
-###### Metadata
-ID:20210206093909
-#author Jenny Odell
-#title How To Do Nothing
-#year 2019
-#philosophy #politics #solitude
-See also: 
+---
+id: "20210206093909"
+author: "Jenny Odell"
+title: "How To Do Nothing"
+year: "2019"
+tags: [philosophy, politics, solitude]
+---
 
 ### Surviving Usefulness
 “Nothing is harder to do than nothing...For some, there may be a kind of engineer’s satisfaction in the streamlining and networking of our entire lived experience. And yet a certain nervous feeling of being overstimulated and unable to sustain a train of thought lingers.” (ix)
@@ -182,4 +182,3 @@ Zuckerberg’s view of the self disagrees with Lorde. He argues that “having t
 “What if we spend less time shouting into the void and being washed over with shouting in return - and more time talking in rooms to those for whom our words are intended?” (176)
 
 “And from the point of view of myself, the person actually experiencing my life, and to whom I will ultimately answer when I die - I would know that I spent that day on earth.” (185) #solace
-

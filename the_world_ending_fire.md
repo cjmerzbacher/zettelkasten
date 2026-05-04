@@ -1,9 +1,10 @@
-###### Metadata
-ID:20210426083802
-#author Wendell Berry
-#title The World-Ending Fire: The Essential Wendell Berry
-#year 2017
-#book
+---
+id: "20210426083802"
+book: true
+author: "Wendell Berry"
+title: "The World-Ending Fire: The Essential Wendell Berry"
+year: "2017"
+---
 
 ### A Native Hill
 Narratives of place: indigeneity vs. immigration.
@@ -51,5 +52,3 @@ Critiques of technology not as return to the past, but as criticism of the past.
 
 ### Faustian Economics
 “This is national security? The world-ending-fire of industrial fundamentalism may already be burning in our furnaces and engines...once greed has been made an honorable motive, then you have an economy without limits, a contradiction in terms. This supposed economy has no plan for temperance or thrift or the ecological law of return. It will do anything. It is monstrous by definition.” (208)
-
-

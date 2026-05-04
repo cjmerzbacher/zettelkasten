@@ -1,9 +1,10 @@
-###### Metadata
-ID:20210429110947
-#author Kara Lowentheil
-#title Unfuck your brain
-#year 2019
-#podcast
+---
+id: "20210429110947"
+type: podcast
+author: "Kara Lowentheil"
+title: "Unfuck your brain"
+year: "2019"
+---
 
 ### How to get shit done
 2 reasons you’re not getting things done: (1) you don’t have a system (2) you aren’t managing your thoughts.

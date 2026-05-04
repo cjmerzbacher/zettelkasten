@@ -1,9 +1,10 @@
-###### Metadata
-ID: 20210429125715
-#author Alexander Chee
-#title How to Write an Autobiograpical Novel
-#year 2019
-#book
+---
+id: "20210429125715"
+book: true
+author: "Alexander Chee"
+title: "How to Write an Autobiograpical Novel"
+year: "2019"
+---
 
 ### The Querent
 “In the occult, good manners matter, as they do in life, and perhaps even more so.” (25)

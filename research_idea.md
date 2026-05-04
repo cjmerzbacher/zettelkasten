@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20210120083701
-#permanent
-#title Research Project Ideas
-#author Charlotte Merzbacher
-#resilience #networks
-
+---
+id: "20210120083701"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Research Project Ideas"
+tags: [resilience, networks]
+---
 
 ### Brainstorming
 Combine some previous resilience metrics (adaptability, transformability, resilience) and apply to PPIs and gene expression data networks. 

@@ -1,11 +1,12 @@
+---
+id: "20200326221713"
+type: literature
+author: "Anna Lowenhaupt Tsing"
+title: "Earth Stalked By Man"
+tags: [philosophy, anthropology, resilience, environment, disturbance, solace, anthropocene]
+---
 
-###### Metadata
-ID: 20200326221713
-#literature #reference
-#author Anna Lowenhaupt Tsing
-#title Earth Stalked By Man
-#philosophy #anthropology #resilience #environment #disturbance #solace #anthropocene
-See also: [[20200326221512]] the_mushroom_at_the_end_of_the_world
+**See also:** [[20200326221512]] the_mushroom_at_the_end_of_the_world
 
 # Earth Stalked By Man
 Lecture at Barnard College by Anna Lowenhaupt Tsing
@@ -57,10 +58,3 @@ Patches as the only hope we have against spreading unlivability.
 [^philosophy]:
 [^ecology]:
 [^resilience]:
-
-
-
-
-
-
-

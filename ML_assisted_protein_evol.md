@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20201002094334
-#literature #reference
-#author Zachary Wu, Frances Arnold et al.
-#title Machine Learning-assisted directed protein evolution with combinatorial libraries
-#gradschool #machinelearning #protein
-See also:
+---
+id: "20201002094334"
+type: literature
+author: "Zachary Wu, Frances Arnold et al."
+title: "Machine Learning-assisted directed protein evolution with combinatorial libraries"
+tags: [gradschool, machinelearning, protein]
+---
 
 # Machine learning-assisted directed protein evolution with combinatorial libraries
 
@@ -34,11 +34,3 @@ Sequence-function pairs used to train a panel of models with default hyperparame
 - multilayer perceptrons
 
 Top three model typese selected and grid-search crossvalidation used to id optimal hyperparameters
-
-
-
-
-
-
-
-

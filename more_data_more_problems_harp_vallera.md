@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20210121083657
-#literature #reference
-#author Harp, Vallera
-#title More Data, More Problems
-#datascience #philosophy
-Consent is something given by someone, to someone, for something. 
+---
+id: "20210121083657"
+type: literature
+author: "Harp, Vallera"
+title: "More Data, More Problems"
+tags: [datascience, philosophy]
+---
 
 Good for:
 * respect for autonomy

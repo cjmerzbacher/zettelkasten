@@ -1,9 +1,9 @@
-###### Metadata
-ID:  20210118205440
-#literature #reference
-#author 
-#title Myths We Live By
-#resilience #story #writing
+---
+id: "20210118205440"
+type: literature
+title: "Myths We Live By"
+tags: [resilience, story, writing]
+---
 
 Mythis are imaginative patterns that shape meaning (ex. machine)
 “Social atomism strikes us as scientific” #quote

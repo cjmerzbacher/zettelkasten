@@ -1,12 +1,10 @@
-
-###### Metadata
-ID: 20200326221915
-#literature #reference
-#author Slavoj Zizek
-#title Like a Thief in Broad Daylight:  Power in the Era of Post-Human Capitalism
-#capitalism #philosophy #technology #bioethics
-See also: 
-
+---
+id: "20200326221915"
+type: literature
+author: "Slavoj Zizek"
+title: "Like a Thief in Broad Daylight:  Power in the Era of Post-Human Capitalism"
+tags: [capitalism, philosophy, technology, bioethics]
+---
 
 # Like a Thief in Broad Daylight
 
@@ -96,7 +94,3 @@ On Me Too: "In downplaying the complexity of sexual interaction, it not only blu
 "The predominant ideology now is not a positive vision of some utopian future but a cynical resignation, an acceptance of 'how the world really is', accompanied by a warning that if we want to change it too much, only totalitarian horror will ensue...the main function of ideological censorship today is not to crush actual resistance...but to crush hope." (211)
 
 "Today, however, the predominant cynical functioning of ideology itself claims, 'You have to be stupid to see that' - what? The hope of radical change." (211)
-
-
-
-

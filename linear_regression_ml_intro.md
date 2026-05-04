@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20200408130905
-#permanent
-#author Charlotte Merzbacher
-#title Linear Regression
-#model #machinelearning #datascience 
-See also:
+---
+id: "20200408130905"
+type: permanent
+author: "Charlotte Merzbacher"
+title: "Linear Regression"
+tags: [machinelearning, datascience]
+---
 
 # Linear Regression
 

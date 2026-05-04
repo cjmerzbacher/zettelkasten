@@ -1,8 +1,8 @@
-###### Metadata
-#literature #reference
-#author Nguyen, C. Thi
-#title Games (Thinking Art)
-See also: 
+---
+type: literature
+author: "Nguyen, C. Thi"
+title: "Games (Thinking Art)"
+---
 
 "In ordinary practical life, we usually take the means for the sake of the ends. But in games, we can take up an end for the sake of the means. Playing games can be a motivational inversion of ordinary life." (p.1)
 
@@ -47,4 +47,3 @@ Harmony of capacity
 "Non-art objects are frameless. We, the appreciators, frame the object for ourselves. We are free to decide what the object of our attention will be. Art objects, on the other hand, are framed; there are rules for encountering them."
 
 "Communication involves shared norms. The more I reject shared norms, the more freely I can play, but the less I can recieve communication. And the more I wish to communicate, the more I must bind myself, for the moment, to a set of shared norms."
-

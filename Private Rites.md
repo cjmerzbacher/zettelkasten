@@ -1,8 +1,8 @@
-###### Metadata
-#literature #reference
-#author Armfield, Julia
-#title Private Rites
-See also: 
+---
+type: literature
+author: "Armfield, Julia"
+title: "Private Rites"
+---
 
 She used to rage, to get involved with direct action and instigate chaos, but her anger has waned over time, the way laughter eventually becomes forced, and what is left feels unpleasant but nonetheless easier. (25)
 
@@ -29,4 +29,3 @@ There was dry land, once, and also the concept of drowning as emergency, a thing
 People take supplements, for vitamin D, for energy, complain the damp has reached their bones. It rains constantly and the fact of the rain, of the rain's whole great impending somethingness, runs parallel to the day-to-day of work and sleep and lottery tickets, of yoga challenges, of buying fruit and paying taxes, of mopping floors and taking drugs on weekends and reading books and wondering what to do on dates. It's exhausting, as it always was, to life with such a breadth of things to take up one's attention - exhausting, the way there can be too much world, even in its final stages. Exhausting, to be so busy and so bored with no time left for either. (21)
 
 The problem with love, of course, is that it frequently asks too much of unlovable people. It can be hard, on even the best of days, to compel oneself to be selfless and patient and undemanding or even halfway reasonable when one is not given to any of those behaviors. But these are nonetheless the qualities that love demands. (227)
-

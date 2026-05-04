@@ -1,9 +1,10 @@
-###### Metadata
-ID:  20210118205930
-#literature #reference
-#author Cornell
-#title Earth System Science and Society: A Focus on the Anthroposphere
-#resilience #ecology #environment
+---
+id: "20210118205930"
+type: literature
+author: "Cornell"
+title: "Earth System Science and Society: A Focus on the Anthroposphere"
+tags: [resilience, ecology, environment]
+---
 
 Models with humans discount human agency (ex. Malthus, Population Bomb)
 Predictive power is not synonymous with usefulness
@@ -25,4 +26,3 @@ How do we view nature in our models?
 3. nonexistent/constant
 
 “Modeling is the easiest part of the job. Detecting the right questions and delivering the desired answers in the right language at the right moment is far more difficult.” Rademaker, 1980.
-

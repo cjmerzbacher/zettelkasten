@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20210125094346
-#literature
-#author R Biggs, M. Schlüter, D. Biggs
-#title Towards Principles for Enhancing the Resilience of Ecosystem Services
-#resilience #systems #ecosystemservices
-See also: 
+---
+id: "20210125094346"
+type: literature
+author: "R Biggs, M. Schlüter, D. Biggs"
+title: "Towards Principles for Enhancing the Resilience of Ecosystem Services"
+tags: [resilience, systems, ecosystemservices]
+---
 
 1. Maintain diversity and redundancy
 2. Manage connectivity

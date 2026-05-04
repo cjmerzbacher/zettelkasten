@@ -1,9 +1,9 @@
-###### Metadata
-ID:20210429111618
-#author 
-#title The War of Art
-#year 2019
-#book
+---
+id: "20210429111618"
+book: true
+title: "The War of Art"
+year: "2019"
+---
 
 ### The Unlived life
 “Most of us have two lives: the life we live, and the unlived life within us. Between the two stands Resistance.”

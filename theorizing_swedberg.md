@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20201228175115
-#literature #reference
-#author Swedberg (Cornell), 2011
-#title Theorizing in Sociology and Social Science: Turning to the Context of Discovery
-#academia #career
-See also:
+---
+id: "20201228175115"
+type: literature
+author: "Swedberg (Cornell), 2011"
+title: "Theorizing in Sociology and Social Science: Turning to the Context of Discovery"
+tags: [academia, career]
+---
 
 - Method competence vs. interesting theory *gap*
 - Theorizing over theory

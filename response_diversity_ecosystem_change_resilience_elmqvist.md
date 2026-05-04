@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20210112112609
-#literature #reference
-#author Thomas Elmqvist, Carl Folke, Magnus Nyström, Garry Peterson, Jan Bengtsson, Brian Walker, and Jon Norberg
-#title Response diversity, ecosystem change, and resilience
-#resilience #ecology 
-See also: 
+---
+id: "20210112112609"
+type: literature
+author: "Thomas Elmqvist, Carl Folke, Magnus Nyström, Garry Peterson, Jan Bengtsson, Brian Walker, and Jon Norberg"
+title: "Response diversity, ecosystem change, and resilience"
+tags: [resilience, ecology]
+---
 
 ![](elmqvist.png)
 

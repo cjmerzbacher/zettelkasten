@@ -1,10 +1,12 @@
-###### Metadata
-ID: 20210121083556
-#literature #reference
-#author Stephen Lade
-#title Capturring emergent phenomena in social-ecological systems: an analytical framework
-#resilience #gradschool #stockholmresilienceinstitute
-See also: [[20200528123654]] what_is_resilience_lade
+---
+id: "20210121083556"
+type: literature
+author: "Stephen Lade"
+title: "Capturring emergent phenomena in social-ecological systems: an analytical framework"
+tags: [resilience, gradschool, stockholmresilienceinstitute]
+---
+
+**See also:** [[20200528123654]] what_is_resilience_lade
 
 # Capturring emergent phenomena in social-ecological systems
 [https://www.ecologyandsociety.org/vol24/iss3/art11/](https://www.ecologyandsociety.org/vol24/iss3/art11/)

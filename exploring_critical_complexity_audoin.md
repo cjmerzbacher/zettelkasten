@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20201228175115
-#literature #reference
-#author Audoin et al. 2013
-#title Exploring the Implications of Critical Complexity for the Study of SES
-#academia #career
-See also: 
+---
+id: "20201228175115"
+type: literature
+author: "Audoin et al. 2013"
+title: "Exploring the Implications of Critical Complexity for the Study of SES"
+tags: [academia, career]
+---
 
 #toread Cilliers, critical complexity
 

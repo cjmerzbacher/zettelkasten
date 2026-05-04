@@ -1,8 +1,8 @@
-###### Metadata
-#literature #reference
-#author Davis, Mike
-#title City of Quartz
-See also: 
+---
+type: literature
+author: "Davis, Mike"
+title: "City of Quartz"
+---
 
 "A mythology - the destruction of intellectual sensibility in the sun-baked plains of Los Angeles" (p.17)
 

@@ -1,9 +1,10 @@
-###### Metadata
-ID: 20210124200040
-#literature #reference
-#author Francis, R., and B. Bekera.
-#title A metric and frameworks for resilience analysis of engineered and infrastructure systems
-#resilience #engineering
+---
+id: "20210124200040"
+type: literature
+author: "Francis, R., and B. Bekera."
+title: "A metric and frameworks for resilience analysis of engineered and infrastructure systems"
+tags: [resilience, engineering]
+---
 
 Reliability Engineering and System Safety, 121, 90-103, 2014.
 

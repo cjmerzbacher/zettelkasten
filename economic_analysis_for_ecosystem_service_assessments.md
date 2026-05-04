@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20201228174616
-#literature #reference
-#author Iam J. Bateman et al.
-#title Economic Analysis for Ecosystem Service Assessments
-#economics #environment
-See also: 
+---
+id: "20201228174616"
+type: literature
+author: "Iam J. Bateman et al."
+title: "Economic Analysis for Ecosystem Service Assessments"
+tags: [economics, environment]
+---
 
 Steps for modeling system: 
 1. Define boundaries 

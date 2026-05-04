@@ -1,8 +1,8 @@
-###### Metadata
-#literature #reference
-#author Chandler, Raymond
-#title The Little Sister
-See also: 
+---
+type: literature
+author: "Chandler, Raymond"
+title: "The Little Sister"
+---
 
 It was one of those clear, bright summer mornings we get in the early spring in California before the high fog sets in. The rains are over. The hills are still green and in the valley across the Hollywood hills you can see snow on the high mountains...And in Beverly Hills the jacaranda trees are beginning to bloom.
 
@@ -53,4 +53,3 @@ On the right the great fat solid Pacific trudging into shore like a scrubwoman g
 I smelled Los Angeles before I got to it. It smelled stale and old like a living room that had been closed too long. But the colored lights fooled you. The lights were wonderful. There ought to be a monument to the man who invented neon lights. Fifteen stories high, solid marble. There's a boy who really made something out of nothing.
 
 "You can call him a guy that would rather spill money than blood," he said. "But he don't mind spilling blood if it looks like that's what he's got to do."
-

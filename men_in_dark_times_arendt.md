@@ -1,10 +1,10 @@
-###### Metadata
-ID: 20200326220830
-#literature #reference
-#author Hannah Arendt
-#title Men in Dark Times
-#philosophy #politicaltheory #solace
-See also: 
+---
+id: "20200326220830"
+type: literature
+author: "Hannah Arendt"
+title: "Men in Dark Times"
+tags: [philosophy, politicaltheory, solace]
+---
 
 # Men in Dark Times
 Hannah Arendt, 1968

@@ -1,11 +1,12 @@
+---
+id: "20200502160451"
+type: literature
+author: "Martin Lee Mueller"
+title: "Being Salmon, Being Human: Encountering the Wild in Us and Us in the Wild"
+tags: [philosophy, resilience, environment, ecosystemservices]
+---
 
-###### Metadata
-ID: 20200502160451
-#literature #reference
-#author Martin Lee Mueller
-#title Being Salmon, Being Human: Encountering the Wild in Us and Us in the Wild
-#philosophy #resilience #environment #ecosystemservices
-See also:  [[20200403133729]] from_nouns_to_verbs_process_ontologies
+**See also:** [[20200403133729]] from_nouns_to_verbs_process_ontologies
 
 ## Preface
 Socrates: wonder is the only beginning of philosophy  (xvi)

@@ -1,9 +1,10 @@
-###### Metadata
-ID:20210429110940
-#author Tim Ferris
-#title Tools of Titans
-#year 2017
-#book
+---
+id: "20210429110940"
+book: true
+author: "Tim Ferris"
+title: "Tools of Titans"
+year: "2017"
+---
 
 (50) QL walk warmup. Hold kettlebell (20lb max) walk butt forward 10-15 feet
 J curl (5-10 reps): stiff leg deadlift with dumbbell on boxd
@@ -61,5 +62,3 @@ Media and technology numbs the body part it amplifies
 “This is a shotgun. It spreads possibilities. The rifle shoots down the very center of the spread. This is an averaging gun.” This Census Taker (167)
 
 “As late as 1900, many believed capitalism was a just system if they could fix whatever allowed the monopolists to dominate their lives. Workers thought if they could fix one thing: whether eliminating Chinese immigration, creating a cooperative economy, or taxing property-free labor could be savaged and the nation would get on the right track...Moderate unionism both acquiesces to the political limitations of radical change in the US and has held back the American working class’s ability to control its own destiny.” (50), A Hisotry of America in 10 strikes
-
-
