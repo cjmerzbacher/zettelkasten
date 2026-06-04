@@ -2,8 +2,15 @@
 id: "20210124200040"
 type: literature
 author: "Francis, R., and B. Bekera."
-title: "A metric and frameworks for resilience analysis of engineered and infrastructure systems"
-tags: [resilience, engineering]
+title: A metric and frameworks for resilience analysis of engineered and infrastructure systems
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - engineering
+links:
 ---
 
 Reliability Engineering and System Safety, 121, 90-103, 2014.

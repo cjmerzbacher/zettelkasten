@@ -1,9 +1,14 @@
 ---
 id: "20210429110947"
 type: podcast
-author: "Kara Lowentheil"
-title: "Unfuck your brain"
+author: Kara Lowentheil
+title: Unfuck your brain
 year: "2019"
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 ### How to get shit done

@@ -1,9 +1,18 @@
 ---
 id: "20200330113927"
 type: literature
-author: "adrienne maree brown"
+author: adrienne maree brown
 title: "Emergent Strategy: Shaping change, changing worlds"
-tags: [philosophy, activism, resilience, environment]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - activism
+  - resilience
+  - environment
+links:
 ---
 
 # Emergent Strategy

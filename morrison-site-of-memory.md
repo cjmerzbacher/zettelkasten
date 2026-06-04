@@ -1,10 +1,17 @@
 ---
-title: "The Site of Memory"
-date: "2026-02-23"
-tags: [memory, memoir, writing]
-links: []
-source: "Toni Morrison"
+id: ""
 author: Charlotte
+title: The Site of Memory
+year: ""
+date: "2026-02-23"
+venue: ""
+link: ""
+source: Toni Morrison
+tags:
+  - memory
+  - memoir
+  - writing
+links:
 ---
 
 > "If writing is thinking and discovery and selection and order and meaning, it is also awe and reverence and mystery and magic. I suppose I could dispense with the last four if I were not so deadly serious about fidelity to the milieu out of which I write and in which my ancestors actually lived. Infidelity to that milieu - the absence of the interior life, the deliberate excising of it form the records that the slaves themselves told - is precisely the problem in the discourse that proceeded without us."

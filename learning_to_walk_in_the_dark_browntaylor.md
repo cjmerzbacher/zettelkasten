@@ -1,10 +1,17 @@
 ---
 id: "20200331105258"
 type: literature
-author: "Barbara Brown Taylor"
-title: "Learning to Walk in the Dark"
-tags: [religion, solace]
-links: [men_in_dark_times_arendt]
+author: Barbara Brown Taylor
+title: Learning to Walk in the Dark
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - religion
+  - solace
+links:
+  - men_in_dark_times_arendt
 ---
 
 **See also:** [[men_in_dark_times_arendt]]

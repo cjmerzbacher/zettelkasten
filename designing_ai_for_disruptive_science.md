@@ -3,12 +3,16 @@ id: "2026051802"
 author: Alvin Djajadikerta
 title: Designing AI for Disruptive Science
 year: "2026"
+date: ""
+venue: ""
+link: ""
 tags:
   - artificialintelligence
   - science
   - metascience
 links:
 ---
+
 - Jorge Luis Borges, *On Exactitude in Science*: A map as large and detailed as the empire itself. A parable for how too much knowledge can become impractical.
 - Deeper problem: "adding detail only gives you more of the same kind of information - more roads, more mountains, more villages - when what you might need is a completely different schematic."
 - Scientific paradigms can be thought of as a map, often unifying with a simpler set of principles with knock-on implications.

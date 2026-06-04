@@ -2,8 +2,15 @@
 id: "20210124200255"
 type: literature
 author: "Brtis, J., and MA McEvilley."
-title: "Systems Engineering for Resilience"
-tags: [resilience, engineering]
+title: Systems Engineering for Resilience
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - engineering
+links:
 ---
 
 MITRE Technical Report_, The MITRE Corporation, 2019.

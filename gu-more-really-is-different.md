@@ -1,10 +1,19 @@
 ---
-title: "More Really Is Different"
-date: "2026-02-24"
-tags: [emergence, math, physics, models]
-links: [anderson-more-is-different]
-source: "Mile Gu, Christian Weedbrook, Álvaro Perales, Michael A. Nielsen (2024)"
+id: ""
 author: Andy
+title: More Really Is Different
+year: ""
+date: "2026-02-24"
+venue: ""
+link: ""
+source: "Mile Gu, Christian Weedbrook, Álvaro Perales, Michael A. Nielsen (2024)"
+tags:
+  - emergence
+  - math
+  - physics
+  - models
+links:
+  - anderson-more-is-different
 ---
 
 # Overview

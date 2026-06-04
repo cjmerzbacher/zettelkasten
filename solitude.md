@@ -1,10 +1,16 @@
 ---
 id: "20210207092937"
 type: permanent
-author: "Charlotte Merzbacher"
-title: "Solitude Essay"
-tags: [philosophy]
-links: [how_to_do_nothing_odell]
+author: Charlotte Merzbacher
+title: Solitude Essay
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+links:
+  - how_to_do_nothing_odell
 ---
 
 **See also:** [[how_to_do_nothing_odell]]

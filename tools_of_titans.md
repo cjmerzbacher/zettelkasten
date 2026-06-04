@@ -1,9 +1,14 @@
 ---
 id: "20210429110940"
-book: true
-author: "Tim Ferris"
-title: "Tools of Titans"
+author: Tim Ferris
+title: Tools of Titans
 year: "2017"
+date: ""
+venue: ""
+link: ""
+tags:
+links:
+book: "true"
 ---
 
 (50) QL walk warmup. Hold kettlebell (20lb max) walk butt forward 10-15 feet

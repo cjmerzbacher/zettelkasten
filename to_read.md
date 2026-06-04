@@ -1,8 +1,14 @@
 ---
 id: "20210121083527"
 type: toread
-author: "Misc."
-title: "to-read list"
+author: Misc.
+title: to-read list
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 # TO READ LIST

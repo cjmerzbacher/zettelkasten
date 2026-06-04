@@ -1,10 +1,18 @@
 ---
 id: "20200326220414"
 type: permanent
-author: "Charlotte Merzbacher"
-title: "Sample Note"
-tags: [philosophy, datascience, resilience]
-links: [sampleliteraturenote]
+author: Charlotte Merzbacher
+title: Sample Note
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - datascience
+  - resilience
+links:
+  - sampleliteraturenote
 ---
 
 **See also:** [[sampleliteraturenote]]

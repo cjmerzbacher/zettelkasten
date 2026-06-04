@@ -1,9 +1,14 @@
 ---
 id: "20210426083802"
-book: true
-author: "Wendell Berry"
+author: Wendell Berry
 title: "The World-Ending Fire: The Essential Wendell Berry"
 year: "2017"
+date: ""
+venue: ""
+link: ""
+tags:
+links:
+book: "true"
 ---
 
 ### A Native Hill

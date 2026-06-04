@@ -1,10 +1,18 @@
 ---
 id: "20200331213012"
 type: permanent
-author: "Charlotte Merzbacher"
-title: "Patchy Apocalypses"
-tags: [resilience, apocalypse, climatechange]
-links: [the_mushroom_at_the_end_of_the_world]
+author: Charlotte Merzbacher
+title: Patchy Apocalypses
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - apocalypse
+  - climatechange
+links:
+  - the_mushroom_at_the_end_of_the_world
 ---
 
 **See also:** [[the_mushroom_at_the_end_of_the_world]]

@@ -1,10 +1,18 @@
 ---
 id: "20210121083556"
 type: literature
-author: "Stephen Lade"
+author: Stephen Lade
 title: "Capturring emergent phenomena in social-ecological systems: an analytical framework"
-tags: [resilience, gradschool, stockholmresilienceinstitute]
-links: [what_is_resilience_lade]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - gradschool
+  - stockholmresilienceinstitute
+links:
+  - what_is_resilience_lade
 ---
 
 **See also:** [[what_is_resilience_lade]]

@@ -1,9 +1,16 @@
 ---
 id: "20210206093909"
-author: "Jenny Odell"
-title: "How To Do Nothing"
+author: Jenny Odell
+title: How To Do Nothing
 year: "2019"
-tags: [philosophy, politics, solitude]
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - politics
+  - solitude
+links:
 ---
 
 ### Surviving Usefulness

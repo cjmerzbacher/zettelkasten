@@ -1,9 +1,16 @@
 ---
 id: "20201228174926"
 type: literature
-author: "Halder et al (SRC)."
+author: Halder et al (SRC).
 title: "The Undisciplinary Journey: Early-Career Perspectives in Sustainability Science"
-tags: [academia, career]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - academia
+  - career
+links:
 ---
 
 - Balance methodological groundedness with epistemological agility. 

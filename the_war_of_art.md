@@ -1,8 +1,14 @@
 ---
 id: "20210429111618"
-book: true
-title: "The War of Art"
+author: ""
+title: The War of Art
 year: "2019"
+date: ""
+venue: ""
+link: ""
+tags:
+links:
+book: "true"
 ---
 
 ### The Unlived life

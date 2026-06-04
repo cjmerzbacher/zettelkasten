@@ -3,11 +3,15 @@ id: "2026050501"
 author: Nathan Lambert
 title: How much does distillation really matter for Chinese LLMs?
 year: "2026"
+date: ""
+venue: ""
+link: ""
 tags:
   - machinelearning
 links:
-  - https://www.interconnects.ai/p/how-much-does-distillation-really?utm_source=substack&utm_medium=email
+  - "https://www.interconnects.ai/p/how-much-does-distillation-really?utm_source=substack&utm_medium=email"
 ---
+
 Author: Nathan Lambert, ML researcher in post-training at Allen Institute for AI: https://natolambert.com
 - Distillation: using a stronger AI model's outputs to teach a weaker model. 
 - **knowledge distillation** (Hinton et al 2015) - learning to match the probability distribution of a teacher model. 

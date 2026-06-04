@@ -1,9 +1,17 @@
 ---
 id: "20200326220830"
 type: literature
-author: "Hannah Arendt"
-title: "Men in Dark Times"
-tags: [philosophy, politicaltheory, solace]
+author: Hannah Arendt
+title: Men in Dark Times
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - politicaltheory
+  - solace
+links:
 ---
 
 # Men in Dark Times

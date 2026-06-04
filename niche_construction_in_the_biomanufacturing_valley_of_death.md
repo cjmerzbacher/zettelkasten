@@ -3,14 +3,18 @@ id: "2026050601"
 author: Christina Agapakis
 title: Niche construction in the biomanufacturing valley of death
 year: "2026"
+date: ""
+venue: ""
+link: ""
 tags:
   - biology
   - ecology
   - science
   - metascience
 links:
-  - https://americanwetware.substack.com/p/niche-construction
+  - "https://americanwetware.substack.com/p/niche-construction"
 ---
+
 Algae oil as a case study for synthetic biology product development. 
 - 2003: Solazyme launches focused on biofuels created with algae like _Prototheca_
 	- Government interest in biofuels as alternative to foreign fuels; by 2012, rise of fracking and reduction in prices led to skepticism

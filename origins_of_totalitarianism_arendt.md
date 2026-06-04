@@ -1,10 +1,17 @@
 ---
 id: "20200518151032"
 type: literature
-author: "Hannah Arendt"
-title: "The Origins of Totalitarianism"
-tags: [philosophy, politicaltheory]
-links: [men_in_dark_times_arendt]
+author: Hannah Arendt
+title: The Origins of Totalitarianism
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - politicaltheory
+links:
+  - men_in_dark_times_arendt
 ---
 
 **See also:** [[men_in_dark_times_arendt]]

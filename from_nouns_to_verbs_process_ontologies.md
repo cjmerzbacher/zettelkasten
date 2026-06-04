@@ -3,8 +3,15 @@ id: "20200403133729"
 type: literature
 author: "Tilman Hertz, Maria Mancilla Garcia, Maja Schlüter"
 title: "From nouns to verbs: How process ontologies enhance our understanding of social‐ecological systems understood as complex adaptive systems"
-tags: [philosophy, resilience]
-links: [emergent_strategy_brown]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - resilience
+links:
+  - emergent_strategy_brown
 ---
 
 **See also:** [[emergent_strategy_brown]]

@@ -1,9 +1,17 @@
 ---
 id: "20200402171646"
 type: literature
-author: "Niall Ferguson"
-title: "The Square and The Tower"
-tags: [networks, science, history]
+author: Niall Ferguson
+title: The Square and The Tower
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - networks
+  - science
+  - history
+links:
 ---
 
 # The Square and The Tower

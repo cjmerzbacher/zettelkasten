@@ -2,8 +2,16 @@
 id: "20201002094334"
 type: literature
 author: "Zachary Wu, Frances Arnold et al."
-title: "Machine Learning-assisted directed protein evolution with combinatorial libraries"
-tags: [gradschool, machinelearning, protein]
+title: Machine Learning-assisted directed protein evolution with combinatorial libraries
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - gradschool
+  - machinelearning
+  - protein
+links:
 ---
 
 # Machine learning-assisted directed protein evolution with combinatorial libraries

@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e687051f1da2335",
+            "id": "b2d7a5ebba5dc8d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "foundation_models_improve_perturbation_response_prediction.md",
+                "file": "leaving_the_us_essay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "foundation_models_improve_perturbation_response_prediction"
+              "title": "leaving_the_us_essay"
+            }
+          },
+          {
+            "id": "556af23f470cf694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leaving_the_us_essay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leaving_the_us_essay"
+            }
+          },
+          {
+            "id": "c5720208f8da204b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leaving_the_us_essay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "leaving_the_us_essay"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "invisible cities",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "a_field_guide_to_getting_lost_solinit.md",
+                "file": "leaving_the_us_essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for a_field_guide_to_getting_lost_solinit"
+              "title": "Backlinks for leaving_the_us_essay"
             }
           },
           {
@@ -123,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "a_field_guide_to_getting_lost_solinit.md",
+                "file": "leaving_the_us_essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from a_field_guide_to_getting_lost_solinit"
+              "title": "Outgoing links from leaving_the_us_essay"
             }
           },
           {
@@ -179,48 +209,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e687051f1da2335",
+  "active": "c5720208f8da204b",
   "lastOpenFiles": [
-    "dynamic_knowledge_graph_approach_to_distributed_self_driving_laboratories.md",
-    "foundation_models_improve_perturbation_response_prediction.md",
-    "introduction_mars_terraforming.md",
-    "designing_ai_for_disruptive_science.md",
+    "invisible_cities.md",
+    "leaving_the_us_essay.md",
+    "the_dispossessed.md",
+    "nobody_knows_my_name.md",
+    "how_to_do_nothing_odell.md",
+    "Untitled.md",
+    "a_language_whose_characters_are_triangles.md",
+    "transformative_experience.md",
+    "you_are_not_safe_in_science_you_are_not_safe_in_history.md",
+    "2026-06-04.md",
     "Untitled.base",
+    "Untitled 1.base",
+    "giovannis_room.md",
+    "a_guide_to_bayesian_optimization_in_bioprocess_engineering.md",
+    "whats_the_point_of_theory_in_biology.md",
+    "learning_the_language_of_the_microbiome_with_transformers.md",
+    "weak-emergence.md",
+    "bacterai_maps_microbial_metabolism_without_prior_knowledge.md",
+    "ls_merge_merging_language_models_in_latent_space.md",
+    "unlocking_the_code_of_smell_and_taste_sense1.md",
+    "template.md",
+    "dynamic_knowledge_graph_approach_to_distributed_self_driving_laboratories.md",
+    "2026-05-21.md",
+    "figs/Screenshot 2026-05-19 at 14.51.14.png",
+    "figs/Screenshot 2026-05-19 at 09.57.01.png",
+    "the_pairing.md",
+    "undisciplinary_journey_halder.md",
+    "a_field_guide_to_getting_lost_solinit.md",
+    "uncertainty.png",
+    "xy_time.png",
+    "networkmedicine.png",
+    "spiral.png",
+    "theorizing_swedberg.md",
+    "the_world_ending_fire.md",
+    "scripts/migrate-yaml.js",
+    "scripts",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
-    "2026-05-18.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "biology_and_ai_belong_together.md",
-    "toward_a_unified_ecology_allen.md",
-    "to_read.md",
-    "node_modules/gray-matter/README.md",
-    "node_modules/commander/Readme.md",
-    "what_is_resilience_lade.md",
-    "niche_construction_in_the_biomanufacturing_valley_of_death.md",
-    "node_modules/marked/LICENSE.md",
     "examples",
-    "how_much_does_distillation_matter.md",
-    "ml_assisted_protein_evol.md",
-    "how_to_do_nothing_odell.md",
-    "hierarchies_and_networks.md",
-    "glaciers_gender_science_carey.md",
-    "uncertainty.png",
-    "transdisciplinarity_lang.md",
-    "theorizing_swedberg.md",
-    "tools_of_titans.md",
-    "solitude.md",
-    "myths_we_live_by.md",
-    "cities-of-light.md",
-    "capturing_emergent_phenomena_lade.md",
-    "20200326221512.md",
     "_build_home.py",
     "site/app.js",
     "site/index.html",
-    "site/graph.json",
-    "site",
-    "spiral.png",
     "cf6db6f561b4471c9e78930506aa0984.png",
     "es_diagram.png"
   ]

@@ -1,10 +1,17 @@
 ---
 id: "20210130183221"
-author: "Hannah Arendt"
-title: "The Human Condition"
+author: Hannah Arendt
+title: The Human Condition
 year: "1958"
-tags: [philosophy, politics, solitude]
-links: [men_in_dark_times_arendt]
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - politics
+  - solitude
+links:
+  - men_in_dark_times_arendt
 ---
 
 **See also:** [[men_in_dark_times_arendt]]

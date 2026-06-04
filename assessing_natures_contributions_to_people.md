@@ -1,9 +1,19 @@
 ---
 id: "20201222220215"
 type: literature
-title: "Assessing Nature’s Contributions to People"
-tags: [resilience, environment, ecosystemservices]
-links: [ipbes_conceptual_framework, ecosystem_services_origins_pitfalls_contributions_alternatives]
+author: ""
+title: Assessing Nature’s Contributions to People
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - environment
+  - ecosystemservices
+links:
+  - ipbes_conceptual_framework
+  - ecosystem_services_origins_pitfalls_contributions_alternatives
 ---
 
 **See also:** [[ipbes_conceptual_framework]], [[ecosystem_services_origins_pitfalls_contributions_alternatives]]

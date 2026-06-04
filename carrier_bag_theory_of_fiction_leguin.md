@@ -1,10 +1,19 @@
 ---
 id: "20200407085813"
 type: literature
-author: "Ursula K. Le Guin"
-title: "The Carrier-Bag Theory of Fiction"
-tags: [religion, fiction, environment, solace]
-links: [earth_stalked_by_man]
+author: Ursula K. Le Guin
+title: The Carrier-Bag Theory of Fiction
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - religion
+  - fiction
+  - environment
+  - solace
+links:
+  - earth_stalked_by_man
 ---
 
 **See also:** [[earth_stalked_by_man]]

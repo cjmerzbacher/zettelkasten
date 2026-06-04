@@ -1,9 +1,17 @@
 ---
 id: "20200401233013"
 type: permanent
-author: "Charlotte Merzbacher"
+author: Charlotte Merzbacher
 title: "Practicing Resilience: Accepting interdependance"
-tags: [resilience, apocalypse, climatechange]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - apocalypse
+  - climatechange
+links:
 ---
 
 # Practicing Resilience

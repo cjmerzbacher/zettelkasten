@@ -1,8 +1,17 @@
 ---
 id: "20210118205440"
 type: literature
-title: "Myths We Live By"
-tags: [resilience, story, writing]
+author: ""
+title: Myths We Live By
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - story
+  - writing
+links:
 ---
 
 Mythis are imaginative patterns that shape meaning (ex. machine)

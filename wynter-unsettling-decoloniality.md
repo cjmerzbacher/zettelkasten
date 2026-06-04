@@ -1,11 +1,18 @@
 ---
-title: "Unsettling the Coloniality of Being/Power/Truth/Freedom"
-subtitle: "Towards the Human, After Man, Its Overrepresentation -- An Argument"
-date: "2026-02-22"
-tags: [epistemology, philosophy, coloniality]
-links:
-source: "Sylvia Wynter"
+id: ""
 author: Liam
+title: Unsettling the Coloniality of Being/Power/Truth/Freedom
+year: ""
+date: "2026-02-22"
+venue: ""
+link: ""
+source: Sylvia Wynter
+tags:
+  - epistemology
+  - philosophy
+  - coloniality
+links:
+subtitle: "Towards the Human, After Man, Its Overrepresentation -- An Argument"
 ---
 
 # Overview

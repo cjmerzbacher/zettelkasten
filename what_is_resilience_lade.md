@@ -1,10 +1,19 @@
 ---
 id: "20200528123654"
 type: literature
-author: "Stephen Lade"
-title: "What is Social-Ecological Resilience"
-tags: [resilience, video, gradschool, stockholmresilienceinstitute]
-links: [sei_system_resilience_what_is]
+author: Stephen Lade
+title: What is Social-Ecological Resilience
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - video
+  - gradschool
+  - stockholmresilienceinstitute
+links:
+  - sei_system_resilience_what_is
 ---
 
 **See also:** [[sei_system_resilience_what_is]]

@@ -2,8 +2,16 @@
 id: "20210112112600"
 type: literature
 author: "Marten Scheffer, Steve Carpenter, Jonathan A. Foley, Carl Folke & Brian Walker"
-title: "Catastrophic Shifts in Ecosystems"
-tags: [resilience, ecology, catastrophe]
+title: Catastrophic Shifts in Ecosystems
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - ecology
+  - catastrophe
+links:
 ---
 
 Catastrophic bifurcations exist in ecological systems. Alternative stable states. Resilience here refers to the size of the valley or basin of attraction around a state - maximum perturbation that can be taken without causing a shift.

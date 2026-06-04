@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
 author: "Armfield, Julia"
-title: "Private Rites"
+title: Private Rites
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 She used to rage, to get involved with direct action and instigate chaos, but her anger has waned over time, the way laughter eventually becomes forced, and what is left feels unpleasant but nonetheless easier. (25)

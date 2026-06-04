@@ -3,7 +3,14 @@ id: "20201228175115"
 type: literature
 author: "Swedberg (Cornell), 2011"
 title: "Theorizing in Sociology and Social Science: Turning to the Context of Discovery"
-tags: [academia, career]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - academia
+  - career
+links:
 ---
 
 - Method competence vs. interesting theory *gap*

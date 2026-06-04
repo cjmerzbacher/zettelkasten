@@ -1,9 +1,16 @@
 ---
 id: "20200408130905"
 type: permanent
-author: "Charlotte Merzbacher"
-title: "Linear Regression"
-tags: [machinelearning, datascience]
+author: Charlotte Merzbacher
+title: Linear Regression
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - machinelearning
+  - datascience
+links:
 ---
 
 # Linear Regression

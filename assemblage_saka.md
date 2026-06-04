@@ -1,10 +1,17 @@
 ---
-title: "Assemblage"
-date: "2026-02-28"
-tags: [assemblage, theory]
-links: [ball-on-delanda-assemblages]
-source: "George E. Marcus and Erkan Saka"
+id: ""
 author: Charlotte
+title: Assemblage
+year: ""
+date: "2026-02-28"
+venue: ""
+link: ""
+source: George E. Marcus and Erkan Saka
+tags:
+  - assemblage
+  - theory
+links:
+  - ball-on-delanda-assemblages
 ---
 
 > "The so-called theory of the 'middle range', in which they create concpets for their purposes by deriving them from the alternative authority of macro counter-discourses that invest in the emergent and the heterogeneous"

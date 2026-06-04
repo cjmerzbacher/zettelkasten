@@ -3,11 +3,15 @@ id: "2026051804"
 author: Cole et al
 title: Foundation Models Improve Perturbation Response Prediction
 year: "2025"
+date: ""
+venue: ""
+link: ""
 tags:
   - artificialintelligence
   - bioengineering
 links:
 ---
+
 Related: Virtual cell challenge
 Affiliations: GenBioAI, Palo Alto
 

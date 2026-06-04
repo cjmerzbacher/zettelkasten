@@ -1,10 +1,19 @@
 ---
-title: "Emergence"
+id: ""
+author: "Charlotte, Liam, Andy"
+title: Emergence
+year: ""
 date: "2026-02-22"
-tags: [philosophy, strong emergence, weak emergence]
-links: [weak-emergence, wynter-unsettling-decoloniality]
-source: "Internet Encyclopedia of Philosophy"
-author: Charlotte, Liam, Andy
+venue: ""
+link: ""
+source: Internet Encyclopedia of Philosophy
+tags:
+  - philosophy
+  - strong emergence
+  - weak emergence
+links:
+  - weak-emergence
+  - wynter-unsettling-decoloniality
 ---
 
 > "A property is emergent if it is a novel property of a system or an entity that arises when a system or entity has reached a certain level of complexity"

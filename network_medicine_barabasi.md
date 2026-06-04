@@ -3,8 +3,16 @@ id: "20200403103722"
 type: literature
 author: "Albert-Lazlo Barabási, Natali Gulbahce, Joseph Loscalzo"
 title: "Network medicine: a network-based approach to human disease"
-tags: [networks, biology, medicine]
-links: [the_square_and_the_tower_ferguson]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - networks
+  - biology
+  - medicine
+links:
+  - the_square_and_the_tower_ferguson
 ---
 
 **See also:** [[the_square_and_the_tower_ferguson]]

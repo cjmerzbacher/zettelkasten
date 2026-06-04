@@ -1,9 +1,16 @@
 ---
 id: "20201228175115"
 type: literature
-author: "Audoin et al. 2013"
-title: "Exploring the Implications of Critical Complexity for the Study of SES"
-tags: [academia, career]
+author: Audoin et al. 2013
+title: Exploring the Implications of Critical Complexity for the Study of SES
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - academia
+  - career
+links:
 ---
 
 #toread Cilliers, critical complexity

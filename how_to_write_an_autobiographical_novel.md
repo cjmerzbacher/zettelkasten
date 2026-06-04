@@ -1,9 +1,14 @@
 ---
 id: "20210429125715"
-book: true
-author: "Alexander Chee"
-title: "How to Write an Autobiograpical Novel"
+author: Alexander Chee
+title: How to Write an Autobiograpical Novel
 year: "2019"
+date: ""
+venue: ""
+link: ""
+tags:
+links:
+book: "true"
 ---
 
 ### The Querent

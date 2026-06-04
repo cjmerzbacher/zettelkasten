@@ -3,7 +3,15 @@ id: "20210118211306"
 type: literature
 author: "Walker, B. et al."
 title: "A Working Hypothesis for A Participatory Approach: Resilience Management in SES"
-tags: [resilience, ecology, environment]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - ecology
+  - environment
+links:
 ---
 
 SES management assumes

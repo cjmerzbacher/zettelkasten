@@ -1,10 +1,21 @@
 ---
-title: "Weak Emergence"
-date: "2026-02-22"
-tags: [emergence, philosophy, complexity]
-links: [anderson-more-is-different, morrison-site-of-memory, lewitt-sentences, wynter-unsettling-decoloniality]
-source: "Mark Bedau"
+id: ""
 author: Charlotte
+title: Weak Emergence
+year: ""
+date: "2026-02-22"
+venue: ""
+link: ""
+source: Mark Bedau
+tags:
+  - emergence
+  - philosophy
+  - complexity
+links:
+  - anderson-more-is-different
+  - morrison-site-of-memory
+  - lewitt-sentences
+  - wynter-unsettling-decoloniality
 ---
 
 Claude: Bedau distinguishes weak emergence (in principle reducible but computationally intractable) from strong emergence (irreducible in principle). Most emergence observed in natural systems is weak.

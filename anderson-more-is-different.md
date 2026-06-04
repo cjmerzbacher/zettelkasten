@@ -1,10 +1,18 @@
 ---
-title: "More Is Different"
+id: ""
+author: "Charlotte, Andy"
+title: More Is Different
+year: ""
 date: "2026-02-24"
-tags: [emergence, physics, reductionism]
-links: [weak-emergence]
-source: "Philip W. Anderson (1972)"
-author: Charlotte, Andy
+venue: ""
+link: ""
+source: Philip W. Anderson (1972)
+tags:
+  - emergence
+  - physics
+  - reductionism
+links:
+  - weak-emergence
 ---
 
 # Overview

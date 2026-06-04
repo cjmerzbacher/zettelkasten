@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
 author: "Nguyen, C. Thi"
-title: "Games (Thinking Art)"
+title: Games (Thinking Art)
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 "In ordinary practical life, we usually take the means for the sake of the ends. But in games, we can take up an end for the sake of the means. Playing games can be a motivational inversion of ordinary life." (p.1)

@@ -1,9 +1,16 @@
 ---
 id: "20210118212106"
 type: literature
-author: "Johann Hari"
-title: "Lost Connections"
-tags: [mentalhealth, solace]
+author: Johann Hari
+title: Lost Connections
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - mentalhealth
+  - solace
+links:
 ---
 
 “Sometimes, when you listen to the pain and you see it in its context, it will point you to a way beyond it - as I learned later.” (66)

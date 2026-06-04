@@ -2,10 +2,18 @@
 id: "20210112105644"
 type: literature
 author: "Allen, T. F. H., and T. W. Hoekstra"
-title: "Toward a Unified Ecology"
-tags: [resilience, ecology]
-links: [rethinking_the_fifth_discipline_flood]
+title: Toward a Unified Ecology
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - ecology
+links:
+  - rethinking_the_fifth_discipline_flood
 ---
+
 q
 **See also:** [[rethinking_the_fifth_discipline_flood]]
 

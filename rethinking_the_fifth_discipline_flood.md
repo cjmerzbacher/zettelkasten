@@ -1,9 +1,16 @@
 ---
 id: "20210112105644"
 type: literature
-author: "Robert Flood"
+author: Robert Flood
 title: "Rethinking The Fifth Discipline: Learning Within the unknowable"
-tags: [resilience, systems]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - systems
+links:
 ---
 
 ### 3. Bertalanffy’s open systems theory

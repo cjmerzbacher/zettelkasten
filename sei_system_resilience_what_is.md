@@ -1,9 +1,15 @@
 ---
 id: "20200330113932"
 type: literature
-author: "Donald Firesmith"
+author: Donald Firesmith
 title: "System Resilience: What Exactly is it?"
-tags: [resilience]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+links:
 ---
 
 # System Resilience: What Exactly is it?

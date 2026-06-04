@@ -3,8 +3,15 @@ id: "20210112111634"
 type: literature
 author: "Janne Bengtsson, Per Angelstam, Thomas Elmqvist, Urban Emanuelsson, Carl Folke, Margareta Ihse, Fredrik Moberg and Magnus Nyström"
 title: "Reserves, Resilience and Dynamic Landscapes"
-tags: [resilience, ecology]
-links: [toward_a_unified_ecology_allen]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - ecology
+links:
+  - toward_a_unified_ecology_allen
 ---
 
 **See also:** [[toward_a_unified_ecology_allen]]

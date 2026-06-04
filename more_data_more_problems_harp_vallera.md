@@ -3,7 +3,14 @@ id: "20210121083657"
 type: literature
 author: "Harp, Vallera"
 title: "More Data, More Problems"
-tags: [datascience, philosophy]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - datascience
+  - philosophy
+links:
 ---
 
 Good for:

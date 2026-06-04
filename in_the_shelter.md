@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
 author: "O'Tuama, Padraig"
-title: "In the Shelter"
+title: In the Shelter
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 David Wagoner, 'Lost':

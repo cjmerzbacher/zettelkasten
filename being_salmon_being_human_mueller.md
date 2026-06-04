@@ -1,10 +1,19 @@
 ---
 id: "20200502160451"
 type: literature
-author: "Martin Lee Mueller"
+author: Martin Lee Mueller
 title: "Being Salmon, Being Human: Encountering the Wild in Us and Us in the Wild"
-tags: [philosophy, resilience, environment, ecosystemservices]
-links: [from_nouns_to_verbs_process_ontologies]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - resilience
+  - environment
+  - ecosystemservices
+links:
+  - from_nouns_to_verbs_process_ontologies
 ---
 
 **See also:** [[from_nouns_to_verbs_process_ontologies]]

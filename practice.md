@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
 author: "Brown, Rosalind"
-title: "Practice"
+title: Practice
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 "A theory of critical reading might begin: Know your texts for decades. Recite many of them to yourself so often that they seem your own speech. Type them out, teach them, annotate them. A critical 'reading' is the end product of an internalization so complete that the word reading is not the right word for what happens when a text is on your mind. The text is part of what has made you who you are." (p.83)

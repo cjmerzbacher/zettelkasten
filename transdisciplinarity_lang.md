@@ -1,10 +1,18 @@
 ---
 id: "20201228175115"
 type: literature
-author: "Lange et al. 2012"
-title: "Transdisciplinarity"
-tags: [academia, career]
-links: [theorizing_swedberg, undisciplinary_journey_halder]
+author: Lange et al. 2012
+title: Transdisciplinarity
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - academia
+  - career
+links:
+  - theorizing_swedberg
+  - undisciplinary_journey_halder
 ---
 
 **See also:** [[theorizing_swedberg]], [[undisciplinary_journey_halder]]

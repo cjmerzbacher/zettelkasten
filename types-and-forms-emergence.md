@@ -1,10 +1,19 @@
 ---
-title: "Types and Forms of Emergence"
-date: "2026-02-23"
-tags: [emergence, philosophy, taxonomy]
-links: [weak-emergence, emergence-encyclopedia-philosophy]
-source: "Jochen Fromm"
+id: ""
 author: Charlotte
+title: Types and Forms of Emergence
+year: ""
+date: "2026-02-23"
+venue: ""
+link: ""
+source: Jochen Fromm
+tags:
+  - emergence
+  - philosophy
+  - taxonomy
+links:
+  - weak-emergence
+  - emergence-encyclopedia-philosophy
 ---
 
 Emergence paradoxes arise mainly because we are often only able to see a part of a complex system. 

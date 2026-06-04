@@ -1,9 +1,19 @@
 ---
 id: "20201222220553"
 type: literature
+author: ""
 title: "Ecosystem Services: Origins, Pitfalls, Contributions, Alternatives"
-tags: [resilience, environment, ecosystemservices]
-links: [assessing_natures_contributions_to_people, ipbes_conceptual_framework]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - environment
+  - ecosystemservices
+links:
+  - assessing_natures_contributions_to_people
+  - ipbes_conceptual_framework
 ---
 
 **See also:** [[assessing_natures_contributions_to_people]], [[ipbes_conceptual_framework]]

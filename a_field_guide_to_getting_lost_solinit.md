@@ -1,9 +1,15 @@
 ---
 id: "20210103150818"
 type: literature
-author: "Rebecca Solnit"
-title: "A Field Guide To Getting Lost"
-tags: [solitude]
+author: Rebecca Solnit
+title: A Field Guide To Getting Lost
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - solitude
+links:
 ---
 
 “Leave the door open for the unknown, the door into the dark. That’s where the most important things come from, where you yourself came from, and where you will go.” (15)

@@ -1,10 +1,17 @@
 ---
-title: "Cities of Light: A Collection of Solar Futures"
-date: "2026-02-23"
-tags: [futures, climate]
-links: [morrison-site-of-memory]
-source: "Joey Eschrich and Clark A. Miller (2021)"
+id: ""
 author: Charlotte
+title: "Cities of Light: A Collection of Solar Futures"
+year: ""
+date: "2026-02-23"
+venue: ""
+link: ""
+source: Joey Eschrich and Clark A. Miller (2021)
+tags:
+  - futures
+  - climate
+links:
+  - morrison-site-of-memory
 ---
 
 > "conceptual models of cities: broad ways of thinking about the affordances, social functions, and unique character of cities...cities as regional hubs with deep interactions with and influence over their hinterlands; zoned landscapes, with different rules governing and activities occurring in each zone; place-based communities with distinctive identities, histories, and cultures; drivers of innovation, social transformation, and sustainability"

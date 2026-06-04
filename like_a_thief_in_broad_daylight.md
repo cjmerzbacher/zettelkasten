@@ -1,9 +1,18 @@
 ---
 id: "20200326221915"
 type: literature
-author: "Slavoj Zizek"
+author: Slavoj Zizek
 title: "Like a Thief in Broad Daylight:  Power in the Era of Post-Human Capitalism"
-tags: [capitalism, philosophy, technology, bioethics]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - capitalism
+  - philosophy
+  - technology
+  - bioethics
+links:
 ---
 
 # Like a Thief in Broad Daylight

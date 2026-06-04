@@ -2,8 +2,15 @@
 id: "20210124200305"
 type: literature
 author: "Jackson, S., and TLJ Ferris"
-title: "Resilience principles for engineered systems"
-tags: [resilience, engineering]
+title: Resilience principles for engineered systems
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - engineering
+links:
 ---
 
 Systems Engineering, 16(2), 152-164, 2013.

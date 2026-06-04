@@ -1,10 +1,20 @@
 ---
-title: "Poietic Generator"
+id: ""
+author: "Liam, Andy"
+title: Poietic Generator
+year: ""
 date: "2026-02-22"
-tags: [collaboration, generative art, interactivity, game]
-links: [lewitt-sentences, wynter-unsettling-decoloniality]
-source: "Wikipedia"
-author: Liam, Andy
+venue: ""
+link: ""
+source: Wikipedia
+tags:
+  - collaboration
+  - generative art
+  - interactivity
+  - game
+links:
+  - lewitt-sentences
+  - wynter-unsettling-decoloniality
 ---
 
 # General notes

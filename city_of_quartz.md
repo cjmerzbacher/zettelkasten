@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
 author: "Davis, Mike"
-title: "City of Quartz"
+title: City of Quartz
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 "A mythology - the destruction of intellectual sensibility in the sun-baked plains of Los Angeles" (p.17)

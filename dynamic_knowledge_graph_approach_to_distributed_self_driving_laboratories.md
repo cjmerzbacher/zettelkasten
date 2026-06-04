@@ -3,6 +3,9 @@ id: "2026051803"
 author: Bai et al
 title: A dynamic knowledge graph approach to distributed self-driving laboratories
 year: "2025"
+date: ""
+venue: ""
+link: ""
 tags:
   - biology
   - science
@@ -12,6 +15,7 @@ tags:
   - engineering
 links:
 ---
+
 - Affiliations: Cambridge, Singapore
 - World Avatar project: seeks to create a digital twin based on a dynamic knowledge graph
 - Two labs, one in Singapore and one in Cambridge, linked by shared ontology (dynamic knowledge graph)

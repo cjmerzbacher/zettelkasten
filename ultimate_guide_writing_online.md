@@ -1,9 +1,17 @@
 ---
 id: "20200326220202"
 type: literature
-author: "David Perell"
-title: "The Ultimate Guide to Writing Online"
-tags: [philosophy, datascience, resilience]
+author: David Perell
+title: The Ultimate Guide to Writing Online
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - datascience
+  - resilience
+links:
 ---
 
 # The Ultimate Guide to Writing Online

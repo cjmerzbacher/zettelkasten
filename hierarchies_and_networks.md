@@ -1,10 +1,21 @@
 ---
 id: "20200330205047"
 type: permanent
-author: "Charlotte Merzbacher"
+author: Charlotte Merzbacher
 title: "Hierarchies and Networks: Paradigms of temporality, knowledge, and power"
-tags: [resilience, networks]
-links: [as_long_as_grass_grows_giliowhitaker, emergent_strategy_brown, the_mushroom_at_the_end_of_the_world, earth_stalked_by_man, men_in_dark_times_arendt]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - networks
+links:
+  - as_long_as_grass_grows_giliowhitaker
+  - emergent_strategy_brown
+  - the_mushroom_at_the_end_of_the_world
+  - earth_stalked_by_man
+  - men_in_dark_times_arendt
 ---
 
 **See also:** [[as_long_as_grass_grows_giliowhitaker]], [[emergent_strategy_brown]], [[the_mushroom_at_the_end_of_the_world]], [[earth_stalked_by_man]], [[men_in_dark_times_arendt]]

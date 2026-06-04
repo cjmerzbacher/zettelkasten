@@ -1,9 +1,18 @@
 ---
 id: "20200326221850"
 type: literature
-author: "David Bentley Hart"
-title: "Three Cheers for Socialism"
-tags: [capitalism, philosophy, socialism, politics]
+author: David Bentley Hart
+title: Three Cheers for Socialism
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - capitalism
+  - philosophy
+  - socialism
+  - politics
+links:
 ---
 
 # Three Cheers for Socialism

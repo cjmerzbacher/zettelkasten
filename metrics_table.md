@@ -1,8 +1,14 @@
 ---
 id: "20210126085019"
 type: permanent
-author: "Charlotte Merzbacher"
-title: "Table of Mathematical Metrics"
+author: Charlotte Merzbacher
+title: Table of Mathematical Metrics
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 | Metric Name            | Type      | Source           | Mathematical Meaning                                                                                                                                                                                      | Explanation                                                                                                                                                                 |

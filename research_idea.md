@@ -1,9 +1,16 @@
 ---
 id: "20210120083701"
 type: permanent
-author: "Charlotte Merzbacher"
-title: "Research Project Ideas"
-tags: [resilience, networks]
+author: Charlotte Merzbacher
+title: Research Project Ideas
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - networks
+links:
 ---
 
 ### Brainstorming

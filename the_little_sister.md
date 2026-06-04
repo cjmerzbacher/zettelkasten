@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
 author: "Chandler, Raymond"
-title: "The Little Sister"
+title: The Little Sister
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 It was one of those clear, bright summer mornings we get in the early spring in California before the high fog sets in. The rains are over. The hills are still green and in the valley across the Hollywood hills you can see snow on the high mountains...And in Beverly Hills the jacaranda trees are beginning to bloom.

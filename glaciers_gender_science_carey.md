@@ -3,7 +3,14 @@ id: "20201228175532"
 type: literature
 author: "Carey et al., 2016 (U of Oregon)"
 title: "Glaciers, Gender, and Science: A feminist glaciology framework for global environmental change research"
-tags: [environment, science]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - environment
+  - science
+links:
 ---
 
 Glaciers as objects of knowledge

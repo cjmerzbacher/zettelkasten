@@ -1,10 +1,22 @@
 ---
 id: "20200326221713"
 type: literature
-author: "Anna Lowenhaupt Tsing"
-title: "Earth Stalked By Man"
-tags: [philosophy, anthropology, resilience, environment, disturbance, solace, anthropocene]
-links: [the_mushroom_at_the_end_of_the_world]
+author: Anna Lowenhaupt Tsing
+title: Earth Stalked By Man
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - philosophy
+  - anthropology
+  - resilience
+  - environment
+  - disturbance
+  - solace
+  - anthropocene
+links:
+  - the_mushroom_at_the_end_of_the_world
 ---
 
 **See also:** [[the_mushroom_at_the_end_of_the_world]]

@@ -1,7 +1,14 @@
 ---
+id: ""
 type: literature
-author: "Andrea Long Chu"
-title: "Authority"
+author: Andrea Long Chu
+title: Authority
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+links:
 ---
 
 "The full discomfiture of this claim can be shrugged off as long as you maintain the fantasy that somewhere out there, in the bleeding wilds of the world, there exists a secret glade called Politics where the gods of history dance. This will let you cleanly cleave the world into two: true and pretend, genuine leftism and performative wokeness, real life and the stuff of television. In truth, you can't book a direct flight to the political. There are always layovers in aesthetic form: in tone, mood, shape, and everything else a work of art might employ to try to get you to feel part of something bigger than yourself." (p.237)

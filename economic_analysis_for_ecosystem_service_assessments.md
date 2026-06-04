@@ -1,9 +1,16 @@
 ---
 id: "20201228174616"
 type: literature
-author: "Iam J. Bateman et al."
-title: "Economic Analysis for Ecosystem Service Assessments"
-tags: [economics, environment]
+author: Iam J. Bateman et al.
+title: Economic Analysis for Ecosystem Service Assessments
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - economics
+  - environment
+links:
 ---
 
 Steps for modeling system: 

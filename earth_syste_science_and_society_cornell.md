@@ -1,9 +1,17 @@
 ---
 id: "20210118205930"
 type: literature
-author: "Cornell"
+author: Cornell
 title: "Earth System Science and Society: A Focus on the Anthroposphere"
-tags: [resilience, ecology, environment]
+year: ""
+date: ""
+venue: ""
+link: ""
+tags:
+  - resilience
+  - ecology
+  - environment
+links:
 ---
 
 Models with humans discount human agency (ex. Malthus, Population Bomb)
