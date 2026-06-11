@@ -16,7 +16,7 @@ links:
 
 > I left America because I doubted my ability to survive the fury of the colour problem here (Sometimes I still do)...In my necessity to find the terms on which my experiences could be related to that of others, Negroes and whites, writers and non-writers, I proved, to my astonishment, to be as American as any Texas G.I. And I found my experience was shared by every American writer I knew in Paris. Like me, they had been divorced from their origins, and it turned out to make very little difference that the origins of white Americans were European and mine were African - they were no more at home in Europe than I was.
 
-> It became terribly clear in Europe, as it had never been here, that we knew more about each other than an yEuropean ever could.
+> It became terribly clear in Europe, as it had never been here, that we knew more about each other than an European ever could.
 
 > Once I was able to accept my role, as distinguished, I must say, from my 'place' - in the extraordinary drama which is America, I was released from the illusion that I hated America. The story...simply illustrates...what can happen...to any American writer [in Europe]...Europe can be very crippling...still, the breakthrough is important, and the point is that an American writer, in order to achieve it, very often has to leave this country.
 

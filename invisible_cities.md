@@ -10,11 +10,11 @@ tags:
   - complexity
 links:
 ---
-> What he sought was always lying ahead, and even if it was a matter of the past it was a past that changed gradually as he advanced on his journey, because the traveler's past changes according to the route he has followed: not the immediate past, that is to which each day that goes by aadds a day, but the more remote past. Arriving at each new city, the traveler finds again a past of his that he did not know he had: the foreignness of what you no longer are or no longer possess lies in wait for you in foreign, unpossesed places.
+> What he sought was always lying ahead, and even if it was a matter of the past it was a past that changed gradually as he advanced on his journey, because the traveler's past changes according to the route he has followed: not the immediate past, that is to which each day that goes by adds a day, but the more remote past. Arriving at each new city, the traveler finds again a past of his that he did not know he had: the foreignness of what you no longer are or no longer possess lies in wait for you in foreign, unpossesed places.
 
-> Cities, like dreams, are made of desires and fears, even if the thread of tehir discourse is secret, their rules are absurd, their persepcties deceitful, and everything conceals something else.
+> Cities, like dreams, are made of desires and fears, even if the thread of their discourse is secret, their rules are absurd, their persepcties deceitful, and everything conceals something else.
 
-> For those who pass it without entering, the city is one thing; it is another f or those who are trapped by it and never leave. There is the city where you arrive for the first time; and there is another city which you leave never to return. Each deserves a different name; perhaps I have already spoken of Irene under other names; perhaps I have only spoken of Irene.
+> For those who pass it without entering, the city is one thing; it is another for those who are trapped by it and never leave. There is the city where you arrive for the first time; and there is another city which you leave never to return. Each deserves a different name; perhaps I have already spoken of Irene under other names; perhaps I have only spoken of Irene.
 
 > From now on, I'll describe the cities to you," the Khan had said. "In your journeys you will see if they exist."
 >But the cities visited by Marco Polo were always different from those thought of by the emperor. 
