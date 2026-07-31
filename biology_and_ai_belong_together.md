@@ -4,15 +4,15 @@ author: Patrick Boyle
 title: Biology and AI belong together
 year: "2026"
 date: ""
-venue: ""
-link: ""
+venue: American Wetware
+link: https://americanwetware.substack.com/p/the-wet-lab-is-a-crucible
 tags:
   - biology
   - artificialintelligence
   - biosecurity
   - science
 links:
-  - "https://americanwetware.substack.com/p/biology-and-ai-belong-together?r=7pm0qd&utm_campaign=post-expanded-share&utm_medium=web&triedRedirect=true"
+  - the_wet_lab_is_a_crucible
 ---
 
 - Frontier AI models are highly capable of bioengineering but result in consistent, frustrating refusals even for routine biological design work
